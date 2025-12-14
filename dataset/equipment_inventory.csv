@@ -1,0 +1,51 @@
+equipment_id,mine_id,equipment_type,brand,model,base_capacity_ton,status,last_maintenance,operator_id
+EQ001-2,MINE_2,Loader,Volvo,L220H,14,Active,2025-09-01,OP001
+EQ002-5,MINE_5,Dump Truck,Hitachi,EH4000AC-3,128,Maintenance,2025-09-04,OP002
+EQ003-4,MINE_4,Dump Truck,BelAZ,75131,219,Active,2025-09-07,OP003
+EQ004-2,MINE_2,Dump Truck,Volvo,A40G,220,Active,2025-09-10,OP004
+EQ005-1,MINE_1,Dump Truck,Hitachi,EH4000AC-3,202,Maintenance,2025-09-13,OP005
+EQ006-1,MINE_1,Dump Truck,Hitachi,EH4000AC-3,190,Active,2025-09-16,OP006
+EQ007-1,MINE_1,Dump Truck,Caterpillar,793,202,Active,2025-09-19,OP007
+EQ008-5,MINE_5,Loader,Hitachi,ZW550,10,Active,2025-09-22,OP008
+EQ009-3,MINE_3,Loader,Volvo,L150H,3,Active,2025-09-25,OP009
+EQ010-4,MINE_4,Dump Truck,Volvo,A40G,202,Active,2025-09-28,OP010
+EQ011-1,MINE_1,Loader,Hitachi,ZW370,4,Active,2025-10-01,OP011
+EQ012-5,MINE_5,Excavator,Caterpillar,336D,4,Active,2025-10-04,OP012
+EQ013-4,MINE_4,Dump Truck,Liebherr,T 264,143,Maintenance,2025-10-07,OP013
+EQ014-1,MINE_1,Excavator,Komatsu,PC200,1,Active,2025-10-10,OP014
+EQ015-1,MINE_1,Excavator,Hitachi,ZX870,10,Active,2025-10-13,OP015
+EQ016-1,MINE_1,Dump Truck,Volvo,A40G,218,Maintenance,2025-10-16,OP016
+EQ017-1,MINE_1,Loader,Hitachi,ZW370,5,Maintenance,2025-10-19,OP017
+EQ018-2,MINE_2,Excavator,Caterpillar,336D,4,Active,2025-10-22,OP018
+EQ019-2,MINE_2,Dump Truck,Komatsu,HD785,142,Maintenance,2025-10-25,OP019
+EQ020-1,MINE_1,Excavator,Komatsu,PC200,1,Active,2025-10-28,OP020
+EQ021-3,MINE_3,Excavator,Liebherr,R9800,43,Active,2025-10-31,OP021
+EQ022-1,MINE_1,Excavator,Caterpillar,320D,8,Active,2025-11-03,OP022
+EQ023-1,MINE_1,Excavator,Hitachi,EX1200,9,Maintenance,2025-11-06,OP023
+EQ024-2,MINE_2,Loader,Caterpillar,988K,9,Maintenance,2025-11-09,OP024
+EQ025-2,MINE_2,Excavator,Liebherr,R9800,42,Active,2025-11-12,OP025
+EQ026-4,MINE_4,Excavator,Caterpillar,336D,26,Maintenance,2025-11-15,OP026
+EQ027-1,MINE_1,Excavator,Liebherr,R9800,42,Maintenance,2025-11-18,OP027
+EQ028-2,MINE_2,Loader,Liebherr,L580,3,Maintenance,2025-11-21,OP028
+EQ029-2,MINE_2,Excavator,Komatsu,PC400,8,Active,2025-11-24,OP029
+EQ030-1,MINE_1,Excavator,Caterpillar,320D,26,Active,2025-11-27,OP030
+EQ031-3,MINE_3,Loader,Volvo,L220H,7,Active,2025-11-30,OP031
+EQ032-1,MINE_1,Loader,Hitachi,ZW370,6,Active,2025-12-03,OP032
+EQ033-1,MINE_1,Loader,Volvo,L150H,4,Maintenance,2025-12-06,OP033
+EQ034-5,MINE_5,Excavator,Liebherr,R9800,45,Maintenance,2025-12-09,OP034
+EQ035-5,MINE_5,Loader,Volvo,L150H,8,Active,2025-12-12,OP035
+EQ036-4,MINE_4,Loader,Hitachi,ZW550,13,Active,2025-12-15,OP036
+EQ037-1,MINE_1,Excavator,Hitachi,EX1200,6,Active,2025-12-18,OP037
+EQ038-1,MINE_1,Loader,Liebherr,L556,11,Active,2025-12-21,OP038
+EQ039-3,MINE_3,Excavator,Komatsu,PC300,8,Maintenance,2025-12-24,OP039
+EQ040-2,MINE_2,Dump Truck,Komatsu,HD1500,182,Active,2025-12-27,OP040
+EQ041-1,MINE_1,Loader,Volvo,L220H,5,Active,2025-12-30,OP041
+EQ042-2,MINE_2,Dump Truck,Volvo,A40G,237,Active,2026-01-02,OP042
+EQ043-1,MINE_1,Excavator,Caterpillar,320D,6,Active,2026-01-05,OP043
+EQ044-5,MINE_5,Loader,Volvo,L220H,5,Active,2026-01-08,OP044
+EQ045-1,MINE_1,Excavator,Komatsu,PC200,1,Active,2026-01-11,OP045
+EQ046-3,MINE_3,Dump Truck,BelAZ,75710,179,Active,2026-01-14,OP046
+EQ047-1,MINE_1,Excavator,Liebherr,R9800,42,Active,2026-01-17,OP047
+EQ048-2,MINE_2,Loader,Liebherr,L556,5,Active,2026-01-20,OP048
+EQ049-2,MINE_2,Loader,Liebherr,L580,6,Active,2026-01-23,OP049
+EQ050-1,MINE_1,Dump Truck,BelAZ,75710,185,Active,2026-01-26,OP050

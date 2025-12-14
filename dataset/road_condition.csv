@@ -1,0 +1,24 @@
+road_id,mine_id,segment_name,condition_level,accessibility_pct,last_inspection,remark
+RD001-1,MINE_1,Segment 1,Good,97,2025-10-06,Lancar
+RD002-1,MINE_1,Segment 2,Good,67,2025-10-27,Lancar
+RD003-1,MINE_1,Segment 3,Good,80,2025-10-30,Perlu perbaikan
+RD004-1,MINE_1,Segment 4,Fair,92,2025-10-05,Perlu perbaikan
+RD005-1,MINE_1,Segment 5,Good,78,2025-10-04,Perlu perbaikan
+RD006-2,MINE_2,Segment 1,Fair,76,2025-10-12,Perlu perbaikan
+RD007-2,MINE_2,Segment 2,Poor,88,2025-10-14,Lumpur
+RD008-2,MINE_2,Segment 3,Poor,94,2025-10-28,Lumpur
+RD009-2,MINE_2,Segment 4,Good,83,2025-10-29,Perlu perbaikan
+RD010-3,MINE_3,Segment 1,Fair,90,2025-10-03,Perlu perbaikan
+RD011-3,MINE_3,Segment 2,Poor,80,2025-10-23,Perlu perbaikan
+RD012-3,MINE_3,Segment 3,Good,62,2025-10-18,Lancar
+RD013-3,MINE_3,Segment 4,Fair,90,2025-10-22,Perlu perbaikan
+RD014-4,MINE_4,Segment 1,Poor,83,2025-10-18,Perlu perbaikan
+RD015-4,MINE_4,Segment 2,Fair,81,2025-10-23,Perlu perbaikan
+RD016-4,MINE_4,Segment 3,Good,86,2025-10-10,Lancar
+RD017-4,MINE_4,Segment 4,Poor,76,2025-10-08,Perlu perbaikan
+RD018-4,MINE_4,Segment 5,Fair,98,2025-10-29,Perlu perbaikan
+RD019-5,MINE_5,Segment 1,Poor,94,2025-10-18,Lumpur
+RD020-5,MINE_5,Segment 2,Poor,72,2025-10-28,Perlu perbaikan
+RD021-5,MINE_5,Segment 3,Fair,95,2025-10-13,Perlu perbaikan
+RD022-5,MINE_5,Segment 4,Good,67,2025-10-14,Lancar
+RD023-5,MINE_5,Segment 5,Fair,71,2025-10-19,Perlu perbaikan

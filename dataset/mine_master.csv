@@ -1,0 +1,6 @@
+mine_id,mine_name,location,region,status,start_date,remarks,start_year
+MINE_1,Tambang Batubara Sungai Merah,Barito,Kalimantan Timur,Active,2018-12-31,Area utama produksi,2018
+MINE_2,Tambang Batubara Tanjung Bara,Kutai Timur,Kalimantan Timur,Active,2019-12-31,Ekspansi,2019
+MINE_3,Tambang Batubara Indrapura,Batu Bara,Sumatera Selatan,Active,2020-12-31,Cadangan batubara tinggi,2020
+MINE_4,Tambang Batubara Mahakam,Samarinda,Kalimantan Timur,Active,2021-12-31,Dekat pelabuhan,2021
+MINE_5,Tambang Batubara Sebuku,Nunukan,Kalimantan Selatan,Active,2022-12-31,Daerah baru,2022

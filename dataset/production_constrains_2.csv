@@ -1,0 +1,1201 @@
+constraint_id,mine_id,equipment_id,week_start,constraint_type,capacity_value,unit,update_date,remarks
+C00000-1,MINE_1,EQ037-1,2019-01-01,Hauling Capacity,500,ton/day,2019-01-05,Kemacetan hauling
+C00001-1,MINE_1,EQ037-1,2019-01-08,Excavator Capacity,500,ton/day,2019-01-10,Cuaca kurang mendukung
+C00002-1,MINE_1,EQ033-1,2019-01-15,Excavator Capacity,500,ton/day,2019-01-20,Cuaca kurang mendukung
+C00003-1,MINE_1,EQ007-1,2019-01-22,Hauling Capacity,500,ton/day,2019-01-27,Jalan rusak
+C00004-1,MINE_1,EQ017-1,2019-02-01,Hauling Capacity,500,ton/day,2019-02-04,Akses terhambat
+C00005-1,MINE_1,EQ037-1,2019-02-08,Excavator Capacity,500,ton/day,2019-02-08,Curah hujan tinggi
+C00006-1,MINE_1,EQ017-1,2019-02-15,Excavator Capacity,500,ton/day,2019-02-20,Cuaca kurang mendukung
+C00007-1,MINE_1,EQ038-1,2019-02-22,Hauling Capacity,500,ton/day,2019-02-25,Kemacetan hauling
+C00008-1,MINE_1,EQ043-1,2019-03-01,Excavator Capacity,500,ton/day,2019-03-07,Cuaca kurang mendukung
+C00009-1,MINE_1,EQ007-1,2019-03-08,Hauling Capacity,500,ton/day,2019-03-11,Akses terhambat
+C00010-1,MINE_1,EQ038-1,2019-03-15,Excavator Capacity,500,ton/day,2019-03-19,Material basah
+C00011-1,MINE_1,EQ032-1,2019-03-22,Hauling Capacity,500,ton/day,2019-03-25,Kemacetan hauling
+C00012-1,MINE_1,EQ022-1,2019-04-01,Excavator Capacity,500,ton/day,2019-04-01,Material basah
+C00013-1,MINE_1,EQ015-1,2019-04-08,Hauling Capacity,500,ton/day,2019-04-09,Alur produksi lancar
+C00014-1,MINE_1,EQ033-1,2019-04-15,Excavator Capacity,500,ton/day,2019-04-16,Material basah
+C00015-1,MINE_1,EQ027-1,2019-04-22,Hauling Capacity,500,ton/day,2019-04-28,Alur produksi lancar
+C00016-1,MINE_1,EQ030-1,2019-05-01,Hauling Capacity,500,ton/day,2019-05-06,Maintenance unit
+C00017-1,MINE_1,EQ020-1,2019-05-08,Excavator Capacity,500,ton/day,2019-05-09,Operasi normal
+C00018-1,MINE_1,EQ011-1,2019-05-15,Excavator Capacity,500,ton/day,2019-05-19,Kondisi lapangan kurang optimal
+C00019-1,MINE_1,EQ017-1,2019-05-22,Hauling Capacity,500,ton/day,2019-05-25,Akses terhambat
+C00020-1,MINE_1,EQ016-1,2019-06-01,Hauling Capacity,500,ton/day,2019-06-01,Kemacetan hauling
+C00021-1,MINE_1,EQ007-1,2019-06-08,Excavator Capacity,500,ton/day,2019-06-12,Cuaca kurang mendukung
+C00022-1,MINE_1,EQ038-1,2019-06-15,Hauling Capacity,500,ton/day,2019-06-15,Kerusakan mekanis
+C00023-1,MINE_1,EQ045-1,2019-06-22,Excavator Capacity,500,ton/day,2019-06-28,Cuaca kurang mendukung
+C00024-1,MINE_1,EQ017-1,2019-07-01,Excavator Capacity,500,ton/day,2019-07-03,Material basah
+C00025-1,MINE_1,EQ023-1,2019-07-08,Excavator Capacity,500,ton/day,2019-07-13,Cuaca kurang mendukung
+C00026-1,MINE_1,EQ043-1,2019-07-15,Excavator Capacity,500,ton/day,2019-07-20,Kerusakan mekanis
+C00027-1,MINE_1,EQ030-1,2019-07-22,Excavator Capacity,500,ton/day,2019-07-23,Cuaca kurang mendukung
+C00028-1,MINE_1,EQ020-1,2019-08-01,Hauling Capacity,500,ton/day,2019-08-07,Kemacetan hauling
+C00029-1,MINE_1,EQ038-1,2019-08-08,Excavator Capacity,500,ton/day,2019-08-12,Material basah
+C00030-1,MINE_1,EQ030-1,2019-08-15,Hauling Capacity,500,ton/day,2019-08-19,Kemacetan hauling
+C00031-1,MINE_1,EQ041-1,2019-08-22,Hauling Capacity,500,ton/day,2019-08-24,Kemacetan hauling
+C00032-1,MINE_1,EQ050-1,2019-09-01,Hauling Capacity,500,ton/day,2019-09-06,Akses terhambat
+C00033-1,MINE_1,EQ005-1,2019-09-08,Excavator Capacity,500,ton/day,2019-09-13,Material basah
+C00034-1,MINE_1,EQ037-1,2019-09-15,Excavator Capacity,500,ton/day,2019-09-21,Curah hujan tinggi
+C00035-1,MINE_1,EQ041-1,2019-09-22,Excavator Capacity,500,ton/day,2019-09-22,Perbaikan alat
+C00036-1,MINE_1,EQ038-1,2019-10-01,Excavator Capacity,500,ton/day,2019-10-03,Perbaikan alat
+C00037-1,MINE_1,EQ045-1,2019-10-08,Excavator Capacity,500,ton/day,2019-10-09,Cuaca kurang mendukung
+C00038-1,MINE_1,EQ033-1,2019-10-15,Hauling Capacity,500,ton/day,2019-10-15,Jalan rusak
+C00039-1,MINE_1,EQ007-1,2019-10-22,Excavator Capacity,500,ton/day,2019-10-25,Material basah
+C00040-1,MINE_1,EQ006-1,2019-11-01,Hauling Capacity,500,ton/day,2019-11-01,Kemacetan hauling
+C00041-1,MINE_1,EQ015-1,2019-11-08,Hauling Capacity,500,ton/day,2019-11-08,Kemacetan hauling
+C00042-1,MINE_1,EQ037-1,2019-11-15,Hauling Capacity,500,ton/day,2019-11-15,Gangguan operasional
+C00043-1,MINE_1,EQ041-1,2019-11-22,Hauling Capacity,500,ton/day,2019-11-27,Jalan rusak
+C00044-1,MINE_1,EQ050-1,2019-12-01,Hauling Capacity,500,ton/day,2019-12-03,Kemacetan hauling
+C00045-1,MINE_1,EQ027-1,2019-12-08,Hauling Capacity,500,ton/day,2019-12-11,Akses terhambat
+C00046-1,MINE_1,EQ041-1,2019-12-15,Hauling Capacity,500,ton/day,2019-12-15,Gangguan operasional
+C00047-1,MINE_1,EQ015-1,2019-12-22,Hauling Capacity,500,ton/day,2019-12-24,Akses terhambat
+C00048-2,MINE_2,EQ042-2,2020-01-01,Excavator Capacity,511,ton/day,2020-01-02,Cuaca kurang mendukung
+C00049-1,MINE_1,EQ032-1,2020-01-01,Excavator Capacity,500,ton/day,2020-01-04,Cuaca kurang mendukung
+C00050-1,MINE_1,EQ016-1,2020-01-08,Crusher Capacity,500,ton/day,2020-01-10,Maintenance unit
+C00051-2,MINE_2,EQ040-2,2020-01-08,Excavator Capacity,1016,ton/day,2020-01-13,Operasi normal
+C00052-1,MINE_1,EQ017-1,2020-01-15,Excavator Capacity,500,ton/day,2020-01-15,Material basah
+C00053-2,MINE_2,EQ029-2,2020-01-15,Excavator Capacity,500,ton/day,2020-01-20,Curah hujan tinggi
+C00054-1,MINE_1,EQ038-1,2020-01-22,Excavator Capacity,500,ton/day,2020-01-22,Kerusakan mekanis
+C00055-2,MINE_2,EQ049-2,2020-01-22,Hauling Capacity,500,ton/day,2020-01-25,Kemacetan hauling
+C00056-1,MINE_1,EQ030-1,2020-02-01,Excavator Capacity,500,ton/day,2020-02-01,Kerusakan mekanis
+C00057-2,MINE_2,EQ048-2,2020-02-01,Hauling Capacity,500,ton/day,2020-02-03,Alur produksi lancar
+C00058-2,MINE_2,EQ019-2,2020-02-08,Hauling Capacity,500,ton/day,2020-02-12,Akses terhambat
+C00059-1,MINE_1,EQ015-1,2020-02-08,Hauling Capacity,500,ton/day,2020-02-13,Jalan rusak
+C00060-2,MINE_2,EQ019-2,2020-02-15,Excavator Capacity,500,ton/day,2020-02-18,Curah hujan tinggi
+C00061-1,MINE_1,EQ007-1,2020-02-15,Hauling Capacity,500,ton/day,2020-02-17,Kemacetan hauling
+C00062-2,MINE_2,EQ040-2,2020-02-22,Excavator Capacity,500,ton/day,2020-02-24,Cuaca kurang mendukung
+C00063-1,MINE_1,EQ017-1,2020-02-22,Excavator Capacity,500,ton/day,2020-02-27,Material basah
+C00064-2,MINE_2,EQ040-2,2020-03-01,Crusher Capacity,611,ton/day,2020-03-03,Kondisi lapangan kurang optimal
+C00065-1,MINE_1,EQ041-1,2020-03-01,Hauling Capacity,500,ton/day,2020-03-01,Kerusakan mekanis
+C00066-2,MINE_2,EQ025-2,2020-03-08,Hauling Capacity,500,ton/day,2020-03-11,Kemacetan hauling
+C00067-1,MINE_1,EQ027-1,2020-03-08,Hauling Capacity,500,ton/day,2020-03-11,Akses terhambat
+C00068-2,MINE_2,EQ048-2,2020-03-15,Excavator Capacity,500,ton/day,2020-03-17,Perbaikan alat
+C00069-1,MINE_1,EQ032-1,2020-03-15,Excavator Capacity,500,ton/day,2020-03-15,Curah hujan tinggi
+C00070-2,MINE_2,EQ018-2,2020-03-22,Excavator Capacity,500,ton/day,2020-03-25,Curah hujan tinggi
+C00071-1,MINE_1,EQ043-1,2020-03-22,Hauling Capacity,500,ton/day,2020-03-22,Kemacetan hauling
+C00072-2,MINE_2,EQ049-2,2020-04-01,Hauling Capacity,500,ton/day,2020-04-02,Akses terhambat
+C00073-1,MINE_1,EQ006-1,2020-04-01,Hauling Capacity,500,ton/day,2020-04-02,Perbaikan alat
+C00074-2,MINE_2,EQ029-2,2020-04-08,Hauling Capacity,500,ton/day,2020-04-14,Jalan rusak
+C00075-1,MINE_1,EQ050-1,2020-04-08,Excavator Capacity,515,ton/day,2020-04-08,Curah hujan tinggi
+C00076-2,MINE_2,EQ049-2,2020-04-15,Hauling Capacity,500,ton/day,2020-04-19,Kemacetan hauling
+C00077-1,MINE_1,EQ016-1,2020-04-15,Hauling Capacity,500,ton/day,2020-04-15,Jalan rusak
+C00078-1,MINE_1,EQ005-1,2020-04-22,Excavator Capacity,500,ton/day,2020-04-22,Cuaca kurang mendukung
+C00079-2,MINE_2,EQ024-2,2020-04-22,Excavator Capacity,500,ton/day,2020-04-27,Material basah
+C00080-2,MINE_2,EQ042-2,2020-05-01,Crusher Capacity,500,ton/day,2020-05-02,Perbaikan alat
+C00081-1,MINE_1,EQ037-1,2020-05-01,Excavator Capacity,500,ton/day,2020-05-01,Cuaca kurang mendukung
+C00082-2,MINE_2,EQ049-2,2020-05-08,Hauling Capacity,500,ton/day,2020-05-09,Jalan rusak
+C00083-1,MINE_1,EQ050-1,2020-05-08,Excavator Capacity,500,ton/day,2020-05-14,Perbaikan alat
+C00084-1,MINE_1,EQ007-1,2020-05-15,Hauling Capacity,500,ton/day,2020-05-19,Akses terhambat
+C00085-2,MINE_2,EQ049-2,2020-05-15,Hauling Capacity,500,ton/day,2020-05-18,Kemacetan hauling
+C00086-1,MINE_1,EQ047-1,2020-05-22,Hauling Capacity,500,ton/day,2020-05-25,Kerusakan mekanis
+C00087-2,MINE_2,EQ024-2,2020-05-22,Hauling Capacity,500,ton/day,2020-05-27,Jalan rusak
+C00088-1,MINE_1,EQ007-1,2020-06-01,Hauling Capacity,500,ton/day,2020-06-04,Kemacetan hauling
+C00089-2,MINE_2,EQ029-2,2020-06-01,Excavator Capacity,500,ton/day,2020-06-05,Material basah
+C00090-2,MINE_2,EQ004-2,2020-06-08,Hauling Capacity,500,ton/day,2020-06-08,Akses terhambat
+C00091-1,MINE_1,EQ006-1,2020-06-08,Excavator Capacity,874,ton/day,2020-06-13,Alur produksi lancar
+C00092-2,MINE_2,EQ025-2,2020-06-15,Hauling Capacity,500,ton/day,2020-06-19,Akses terhambat
+C00093-1,MINE_1,EQ045-1,2020-06-15,Excavator Capacity,500,ton/day,2020-06-19,Cuaca kurang mendukung
+C00094-1,MINE_1,EQ045-1,2020-06-22,Excavator Capacity,500,ton/day,2020-06-24,Material basah
+C00095-2,MINE_2,EQ004-2,2020-06-22,Excavator Capacity,500,ton/day,2020-06-28,Maintenance unit
+C00096-2,MINE_2,EQ025-2,2020-07-01,Hauling Capacity,500,ton/day,2020-07-04,Akses terhambat
+C00097-1,MINE_1,EQ045-1,2020-07-01,Hauling Capacity,500,ton/day,2020-07-07,Akses terhambat
+C00098-2,MINE_2,EQ049-2,2020-07-08,Hauling Capacity,500,ton/day,2020-07-14,Akses terhambat
+C00099-1,MINE_1,EQ011-1,2020-07-08,Hauling Capacity,500,ton/day,2020-07-11,Jalan rusak
+C00100-1,MINE_1,EQ047-1,2020-07-15,Hauling Capacity,500,ton/day,2020-07-15,Jalan rusak
+C00101-2,MINE_2,EQ019-2,2020-07-15,Excavator Capacity,500,ton/day,2020-07-16,Cuaca kurang mendukung
+C00102-2,MINE_2,EQ048-2,2020-07-22,Hauling Capacity,500,ton/day,2020-07-25,Kemacetan hauling
+C00103-1,MINE_1,EQ047-1,2020-07-22,Excavator Capacity,500,ton/day,2020-07-22,Curah hujan tinggi
+C00104-1,MINE_1,EQ047-1,2020-08-01,Crusher Capacity,500,ton/day,2020-08-01,Kerusakan mekanis
+C00105-2,MINE_2,EQ025-2,2020-08-01,Hauling Capacity,500,ton/day,2020-08-05,Gangguan operasional
+C00106-2,MINE_2,EQ028-2,2020-08-08,Hauling Capacity,500,ton/day,2020-08-10,Akses terhambat
+C00107-1,MINE_1,EQ015-1,2020-08-08,Excavator Capacity,500,ton/day,2020-08-12,Material basah
+C00108-2,MINE_2,EQ001-2,2020-08-15,Hauling Capacity,500,ton/day,2020-08-15,Kerusakan mekanis
+C00109-1,MINE_1,EQ014-1,2020-08-15,Excavator Capacity,500,ton/day,2020-08-19,Material basah
+C00110-2,MINE_2,EQ040-2,2020-08-22,Excavator Capacity,500,ton/day,2020-08-25,Maintenance unit
+C00111-1,MINE_1,EQ037-1,2020-08-22,Hauling Capacity,500,ton/day,2020-08-22,Kemacetan hauling
+C00112-2,MINE_2,EQ004-2,2020-09-01,Excavator Capacity,500,ton/day,2020-09-07,Curah hujan tinggi
+C00113-1,MINE_1,EQ030-1,2020-09-01,Excavator Capacity,500,ton/day,2020-09-04,Curah hujan tinggi
+C00114-1,MINE_1,EQ020-1,2020-09-08,Excavator Capacity,500,ton/day,2020-09-10,Curah hujan tinggi
+C00115-2,MINE_2,EQ019-2,2020-09-08,Hauling Capacity,500,ton/day,2020-09-11,Jalan rusak
+C00116-1,MINE_1,EQ015-1,2020-09-15,Hauling Capacity,500,ton/day,2020-09-15,Kerusakan mekanis
+C00117-2,MINE_2,EQ019-2,2020-09-15,Hauling Capacity,500,ton/day,2020-09-18,Kemacetan hauling
+C00118-2,MINE_2,EQ018-2,2020-09-22,Hauling Capacity,500,ton/day,2020-09-24,Alur produksi lancar
+C00119-1,MINE_1,EQ047-1,2020-09-22,Excavator Capacity,500,ton/day,2020-09-24,Curah hujan tinggi
+C00120-2,MINE_2,EQ001-2,2020-10-01,Excavator Capacity,500,ton/day,2020-10-04,Curah hujan tinggi
+C00121-1,MINE_1,EQ016-1,2020-10-01,Excavator Capacity,500,ton/day,2020-10-02,Maintenance unit
+C00122-1,MINE_1,EQ030-1,2020-10-08,Hauling Capacity,500,ton/day,2020-10-10,Gangguan operasional
+C00123-2,MINE_2,EQ004-2,2020-10-08,Crusher Capacity,500,ton/day,2020-10-11,Kerusakan mekanis
+C00124-2,MINE_2,EQ049-2,2020-10-15,Excavator Capacity,500,ton/day,2020-10-19,Curah hujan tinggi
+C00125-1,MINE_1,EQ038-1,2020-10-15,Hauling Capacity,500,ton/day,2020-10-15,Perbaikan alat
+C00126-2,MINE_2,EQ048-2,2020-10-22,Hauling Capacity,500,ton/day,2020-10-26,Maintenance unit
+C00127-1,MINE_1,EQ023-1,2020-10-22,Hauling Capacity,500,ton/day,2020-10-22,Akses terhambat
+C00128-2,MINE_2,EQ024-2,2020-11-01,Excavator Capacity,500,ton/day,2020-11-05,Maintenance unit
+C00129-1,MINE_1,EQ015-1,2020-11-01,Hauling Capacity,500,ton/day,2020-11-05,Kerusakan mekanis
+C00130-1,MINE_1,EQ007-1,2020-11-08,Hauling Capacity,571,ton/day,2020-11-09,Jalan rusak
+C00131-2,MINE_2,EQ019-2,2020-11-08,Hauling Capacity,500,ton/day,2020-11-12,Akses terhambat
+C00132-1,MINE_1,EQ023-1,2020-11-15,Excavator Capacity,500,ton/day,2020-11-21,Curah hujan tinggi
+C00133-2,MINE_2,EQ024-2,2020-11-15,Excavator Capacity,500,ton/day,2020-11-18,Curah hujan tinggi
+C00134-1,MINE_1,EQ041-1,2020-11-22,Crusher Capacity,500,ton/day,2020-11-22,Gangguan operasional
+C00135-2,MINE_2,EQ042-2,2020-11-22,Hauling Capacity,518,ton/day,2020-11-26,Akses terhambat
+C00136-1,MINE_1,EQ038-1,2020-12-01,Hauling Capacity,500,ton/day,2020-12-05,Jalan rusak
+C00137-2,MINE_2,EQ029-2,2020-12-01,Excavator Capacity,500,ton/day,2020-12-04,Kondisi lapangan kurang optimal
+C00138-1,MINE_1,EQ005-1,2020-12-08,Hauling Capacity,500,ton/day,2020-12-13,Akses terhambat
+C00139-2,MINE_2,EQ019-2,2020-12-08,Hauling Capacity,500,ton/day,2020-12-13,Jalan rusak
+C00140-2,MINE_2,EQ049-2,2020-12-15,Hauling Capacity,500,ton/day,2020-12-18,Kemacetan hauling
+C00141-1,MINE_1,EQ043-1,2020-12-15,Hauling Capacity,500,ton/day,2020-12-16,Gangguan operasional
+C00142-1,MINE_1,EQ033-1,2020-12-22,Hauling Capacity,500,ton/day,2020-12-25,Jalan rusak
+C00143-2,MINE_2,EQ001-2,2020-12-22,Excavator Capacity,500,ton/day,2020-12-25,Curah hujan tinggi
+C00144-2,MINE_2,EQ001-2,2021-01-01,Hauling Capacity,500,ton/day,2021-01-01,Gangguan operasional
+C00145-3,MINE_3,EQ046-3,2021-01-01,Excavator Capacity,500,ton/day,2021-01-05,Curah hujan tinggi
+C00146-1,MINE_1,EQ017-1,2021-01-01,Excavator Capacity,500,ton/day,2021-01-05,Kerusakan mekanis
+C00147-3,MINE_3,EQ039-3,2021-01-08,Excavator Capacity,500,ton/day,2021-01-09,Material basah
+C00148-2,MINE_2,EQ048-2,2021-01-08,Excavator Capacity,500,ton/day,2021-01-13,Curah hujan tinggi
+C00149-1,MINE_1,EQ027-1,2021-01-08,Crusher Capacity,500,ton/day,2021-01-09,Maintenance unit
+C00150-1,MINE_1,EQ005-1,2021-01-15,Hauling Capacity,663,ton/day,2021-01-15,Kemacetan hauling
+C00151-3,MINE_3,EQ021-3,2021-01-15,Hauling Capacity,500,ton/day,2021-01-15,Kerusakan mekanis
+C00152-2,MINE_2,EQ025-2,2021-01-15,Hauling Capacity,500,ton/day,2021-01-19,Akses terhambat
+C00153-3,MINE_3,EQ021-3,2021-01-22,Hauling Capacity,500,ton/day,2021-01-26,Kondisi lapangan kurang optimal
+C00154-2,MINE_2,EQ018-2,2021-01-22,Excavator Capacity,500,ton/day,2021-01-22,Cuaca kurang mendukung
+C00155-1,MINE_1,EQ047-1,2021-01-22,Hauling Capacity,500,ton/day,2021-01-24,Akses terhambat
+C00156-2,MINE_2,EQ001-2,2021-02-01,Hauling Capacity,500,ton/day,2021-02-01,Akses terhambat
+C00157-1,MINE_1,EQ037-1,2021-02-01,Hauling Capacity,500,ton/day,2021-02-02,Kerusakan mekanis
+C00158-3,MINE_3,EQ021-3,2021-02-01,Excavator Capacity,500,ton/day,2021-02-03,Cuaca kurang mendukung
+C00159-3,MINE_3,EQ039-3,2021-02-08,Hauling Capacity,500,ton/day,2021-02-13,Akses terhambat
+C00160-2,MINE_2,EQ048-2,2021-02-08,Excavator Capacity,500,ton/day,2021-02-14,Kerusakan mekanis
+C00161-1,MINE_1,EQ017-1,2021-02-08,Excavator Capacity,500,ton/day,2021-02-09,Material basah
+C00162-1,MINE_1,EQ022-1,2021-02-15,Crusher Capacity,500,ton/day,2021-02-20,Perbaikan alat
+C00163-3,MINE_3,EQ039-3,2021-02-15,Excavator Capacity,500,ton/day,2021-02-17,Cuaca kurang mendukung
+C00164-2,MINE_2,EQ040-2,2021-02-15,Hauling Capacity,500,ton/day,2021-02-20,Akses terhambat
+C00165-1,MINE_1,EQ016-1,2021-02-22,Crusher Capacity,1160,ton/day,2021-02-23,Operasi normal
+C00166-3,MINE_3,EQ039-3,2021-02-22,Excavator Capacity,500,ton/day,2021-02-22,Perbaikan alat
+C00167-2,MINE_2,EQ029-2,2021-02-22,Excavator Capacity,500,ton/day,2021-02-23,Curah hujan tinggi
+C00168-1,MINE_1,EQ033-1,2021-03-01,Excavator Capacity,500,ton/day,2021-03-03,Material basah
+C00169-2,MINE_2,EQ024-2,2021-03-01,Excavator Capacity,500,ton/day,2021-03-01,Cuaca kurang mendukung
+C00170-3,MINE_3,EQ021-3,2021-03-01,Excavator Capacity,500,ton/day,2021-03-06,Cuaca kurang mendukung
+C00171-3,MINE_3,EQ039-3,2021-03-08,Excavator Capacity,500,ton/day,2021-03-10,Curah hujan tinggi
+C00172-1,MINE_1,EQ023-1,2021-03-08,Crusher Capacity,500,ton/day,2021-03-12,Perbaikan alat
+C00173-2,MINE_2,EQ042-2,2021-03-08,Hauling Capacity,500,ton/day,2021-03-09,Akses terhambat
+C00174-2,MINE_2,EQ029-2,2021-03-15,Hauling Capacity,500,ton/day,2021-03-20,Akses terhambat
+C00175-3,MINE_3,EQ046-3,2021-03-15,Hauling Capacity,500,ton/day,2021-03-20,Jalan rusak
+C00176-1,MINE_1,EQ023-1,2021-03-15,Hauling Capacity,500,ton/day,2021-03-17,Akses terhambat
+C00177-2,MINE_2,EQ001-2,2021-03-22,Hauling Capacity,500,ton/day,2021-03-27,Akses terhambat
+C00178-1,MINE_1,EQ050-1,2021-03-22,Hauling Capacity,500,ton/day,2021-03-26,Kemacetan hauling
+C00179-3,MINE_3,EQ009-3,2021-03-22,Hauling Capacity,500,ton/day,2021-03-24,Akses terhambat
+C00180-2,MINE_2,EQ001-2,2021-04-01,Hauling Capacity,500,ton/day,2021-04-06,Kemacetan hauling
+C00181-3,MINE_3,EQ031-3,2021-04-01,Hauling Capacity,500,ton/day,2021-04-02,Jalan rusak
+C00182-1,MINE_1,EQ041-1,2021-04-01,Excavator Capacity,500,ton/day,2021-04-07,Cuaca kurang mendukung
+C00183-1,MINE_1,EQ011-1,2021-04-08,Excavator Capacity,500,ton/day,2021-04-14,Cuaca kurang mendukung
+C00184-3,MINE_3,EQ031-3,2021-04-08,Hauling Capacity,500,ton/day,2021-04-10,Jalan rusak
+C00185-2,MINE_2,EQ048-2,2021-04-08,Hauling Capacity,500,ton/day,2021-04-12,Kemacetan hauling
+C00186-3,MINE_3,EQ009-3,2021-04-15,Hauling Capacity,500,ton/day,2021-04-21,Akses terhambat
+C00187-2,MINE_2,EQ040-2,2021-04-15,Hauling Capacity,500,ton/day,2021-04-15,Akses terhambat
+C00188-1,MINE_1,EQ011-1,2021-04-15,Hauling Capacity,500,ton/day,2021-04-17,Jalan rusak
+C00189-3,MINE_3,EQ009-3,2021-04-22,Hauling Capacity,500,ton/day,2021-04-27,Kemacetan hauling
+C00190-2,MINE_2,EQ001-2,2021-04-22,Excavator Capacity,500,ton/day,2021-04-25,Curah hujan tinggi
+C00191-1,MINE_1,EQ027-1,2021-04-22,Hauling Capacity,500,ton/day,2021-04-25,Jalan rusak
+C00192-1,MINE_1,EQ047-1,2021-05-01,Excavator Capacity,500,ton/day,2021-05-05,Cuaca kurang mendukung
+C00193-2,MINE_2,EQ019-2,2021-05-01,Hauling Capacity,500,ton/day,2021-05-06,Akses terhambat
+C00194-3,MINE_3,EQ046-3,2021-05-01,Hauling Capacity,500,ton/day,2021-05-03,Jalan rusak
+C00195-3,MINE_3,EQ021-3,2021-05-08,Hauling Capacity,500,ton/day,2021-05-08,Kemacetan hauling
+C00196-2,MINE_2,EQ028-2,2021-05-08,Crusher Capacity,500,ton/day,2021-05-11,Operasi normal
+C00197-1,MINE_1,EQ007-1,2021-05-08,Hauling Capacity,813,ton/day,2021-05-11,Kondisi lapangan kurang optimal
+C00198-2,MINE_2,EQ004-2,2021-05-15,Hauling Capacity,572,ton/day,2021-05-20,Jalan rusak
+C00199-3,MINE_3,EQ046-3,2021-05-15,Excavator Capacity,500,ton/day,2021-05-17,Cuaca kurang mendukung
+C00200-1,MINE_1,EQ030-1,2021-05-15,Excavator Capacity,500,ton/day,2021-05-20,Curah hujan tinggi
+C00201-2,MINE_2,EQ048-2,2021-05-22,Crusher Capacity,500,ton/day,2021-05-25,Gangguan operasional
+C00202-3,MINE_3,EQ039-3,2021-05-22,Hauling Capacity,500,ton/day,2021-05-26,Jalan rusak
+C00203-1,MINE_1,EQ017-1,2021-05-22,Excavator Capacity,500,ton/day,2021-05-24,Curah hujan tinggi
+C00204-1,MINE_1,EQ047-1,2021-06-01,Excavator Capacity,500,ton/day,2021-06-05,Material basah
+C00205-2,MINE_2,EQ049-2,2021-06-01,Hauling Capacity,500,ton/day,2021-06-02,Akses terhambat
+C00206-3,MINE_3,EQ046-3,2021-06-01,Hauling Capacity,500,ton/day,2021-06-01,Akses terhambat
+C00207-1,MINE_1,EQ047-1,2021-06-08,Hauling Capacity,500,ton/day,2021-06-14,Jalan rusak
+C00208-3,MINE_3,EQ021-3,2021-06-08,Crusher Capacity,500,ton/day,2021-06-11,Perbaikan alat
+C00209-2,MINE_2,EQ018-2,2021-06-08,Hauling Capacity,500,ton/day,2021-06-08,Kondisi lapangan kurang optimal
+C00210-1,MINE_1,EQ017-1,2021-06-15,Hauling Capacity,500,ton/day,2021-06-20,Akses terhambat
+C00211-2,MINE_2,EQ018-2,2021-06-15,Hauling Capacity,500,ton/day,2021-06-15,Kemacetan hauling
+C00212-3,MINE_3,EQ021-3,2021-06-15,Hauling Capacity,500,ton/day,2021-06-19,Maintenance unit
+C00213-1,MINE_1,EQ015-1,2021-06-22,Hauling Capacity,500,ton/day,2021-06-25,Jalan rusak
+C00214-3,MINE_3,EQ009-3,2021-06-22,Hauling Capacity,500,ton/day,2021-06-28,Jalan rusak
+C00215-2,MINE_2,EQ019-2,2021-06-22,Excavator Capacity,500,ton/day,2021-06-27,Curah hujan tinggi
+C00216-1,MINE_1,EQ043-1,2021-07-01,Excavator Capacity,500,ton/day,2021-07-01,Curah hujan tinggi
+C00217-3,MINE_3,EQ031-3,2021-07-01,Hauling Capacity,500,ton/day,2021-07-06,Jalan rusak
+C00218-2,MINE_2,EQ019-2,2021-07-01,Hauling Capacity,500,ton/day,2021-07-03,Kemacetan hauling
+C00219-1,MINE_1,EQ011-1,2021-07-08,Excavator Capacity,500,ton/day,2021-07-09,Cuaca kurang mendukung
+C00220-2,MINE_2,EQ019-2,2021-07-08,Hauling Capacity,500,ton/day,2021-07-08,Akses terhambat
+C00221-3,MINE_3,EQ009-3,2021-07-08,Excavator Capacity,500,ton/day,2021-07-13,Curah hujan tinggi
+C00222-2,MINE_2,EQ048-2,2021-07-15,Excavator Capacity,500,ton/day,2021-07-15,Kerusakan mekanis
+C00223-3,MINE_3,EQ046-3,2021-07-15,Hauling Capacity,500,ton/day,2021-07-19,Jalan rusak
+C00224-1,MINE_1,EQ011-1,2021-07-15,Excavator Capacity,500,ton/day,2021-07-21,Maintenance unit
+C00225-2,MINE_2,EQ025-2,2021-07-22,Hauling Capacity,500,ton/day,2021-07-26,Kemacetan hauling
+C00226-1,MINE_1,EQ047-1,2021-07-22,Excavator Capacity,500,ton/day,2021-07-23,Curah hujan tinggi
+C00227-3,MINE_3,EQ021-3,2021-07-22,Hauling Capacity,500,ton/day,2021-07-24,Jalan rusak
+C00228-3,MINE_3,EQ021-3,2021-08-01,Excavator Capacity,500,ton/day,2021-08-02,Material basah
+C00229-2,MINE_2,EQ042-2,2021-08-01,Hauling Capacity,500,ton/day,2021-08-07,Kemacetan hauling
+C00230-1,MINE_1,EQ011-1,2021-08-01,Hauling Capacity,500,ton/day,2021-08-05,Jalan rusak
+C00231-2,MINE_2,EQ049-2,2021-08-08,Hauling Capacity,500,ton/day,2021-08-14,Akses terhambat
+C00232-1,MINE_1,EQ017-1,2021-08-08,Excavator Capacity,500,ton/day,2021-08-12,Curah hujan tinggi
+C00233-3,MINE_3,EQ009-3,2021-08-08,Excavator Capacity,500,ton/day,2021-08-09,Cuaca kurang mendukung
+C00234-1,MINE_1,EQ007-1,2021-08-15,Hauling Capacity,500,ton/day,2021-08-15,Jalan rusak
+C00235-3,MINE_3,EQ009-3,2021-08-15,Crusher Capacity,500,ton/day,2021-08-19,Maintenance unit
+C00236-2,MINE_2,EQ019-2,2021-08-15,Hauling Capacity,500,ton/day,2021-08-15,Kemacetan hauling
+C00237-2,MINE_2,EQ018-2,2021-08-22,Hauling Capacity,500,ton/day,2021-08-28,Kemacetan hauling
+C00238-1,MINE_1,EQ050-1,2021-08-22,Excavator Capacity,959,ton/day,2021-08-25,Alur produksi lancar
+C00239-3,MINE_3,EQ046-3,2021-08-22,Hauling Capacity,500,ton/day,2021-08-25,Kerusakan mekanis
+C00240-3,MINE_3,EQ009-3,2021-09-01,Excavator Capacity,500,ton/day,2021-09-07,Material basah
+C00241-1,MINE_1,EQ032-1,2021-09-01,Hauling Capacity,500,ton/day,2021-09-03,Akses terhambat
+C00242-2,MINE_2,EQ018-2,2021-09-01,Hauling Capacity,500,ton/day,2021-09-01,Jalan rusak
+C00243-1,MINE_1,EQ005-1,2021-09-08,Excavator Capacity,500,ton/day,2021-09-08,Curah hujan tinggi
+C00244-3,MINE_3,EQ039-3,2021-09-08,Crusher Capacity,500,ton/day,2021-09-12,Perbaikan alat
+C00245-2,MINE_2,EQ049-2,2021-09-08,Excavator Capacity,500,ton/day,2021-09-08,Curah hujan tinggi
+C00246-3,MINE_3,EQ009-3,2021-09-15,Excavator Capacity,500,ton/day,2021-09-19,Cuaca kurang mendukung
+C00247-2,MINE_2,EQ049-2,2021-09-15,Hauling Capacity,500,ton/day,2021-09-20,Akses terhambat
+C00248-1,MINE_1,EQ016-1,2021-09-15,Excavator Capacity,500,ton/day,2021-09-20,Cuaca kurang mendukung
+C00249-1,MINE_1,EQ005-1,2021-09-22,Hauling Capacity,500,ton/day,2021-09-26,Akses terhambat
+C00250-3,MINE_3,EQ021-3,2021-09-22,Excavator Capacity,500,ton/day,2021-09-22,Material basah
+C00251-2,MINE_2,EQ029-2,2021-09-22,Crusher Capacity,500,ton/day,2021-09-25,Perbaikan alat
+C00252-1,MINE_1,EQ050-1,2021-10-01,Excavator Capacity,500,ton/day,2021-10-07,Cuaca kurang mendukung
+C00253-3,MINE_3,EQ046-3,2021-10-01,Hauling Capacity,500,ton/day,2021-10-07,Kemacetan hauling
+C00254-2,MINE_2,EQ001-2,2021-10-01,Hauling Capacity,500,ton/day,2021-10-02,Perbaikan alat
+C00255-3,MINE_3,EQ031-3,2021-10-08,Excavator Capacity,500,ton/day,2021-10-14,Material basah
+C00256-1,MINE_1,EQ016-1,2021-10-08,Excavator Capacity,500,ton/day,2021-10-10,Cuaca kurang mendukung
+C00257-2,MINE_2,EQ025-2,2021-10-08,Hauling Capacity,500,ton/day,2021-10-13,Akses terhambat
+C00258-3,MINE_3,EQ021-3,2021-10-15,Hauling Capacity,500,ton/day,2021-10-15,Kemacetan hauling
+C00259-2,MINE_2,EQ019-2,2021-10-15,Excavator Capacity,500,ton/day,2021-10-20,Cuaca kurang mendukung
+C00260-1,MINE_1,EQ027-1,2021-10-15,Excavator Capacity,500,ton/day,2021-10-20,Curah hujan tinggi
+C00261-3,MINE_3,EQ031-3,2021-10-22,Hauling Capacity,500,ton/day,2021-10-28,Jalan rusak
+C00262-2,MINE_2,EQ004-2,2021-10-22,Excavator Capacity,500,ton/day,2021-10-24,Curah hujan tinggi
+C00263-1,MINE_1,EQ041-1,2021-10-22,Hauling Capacity,500,ton/day,2021-10-25,Akses terhambat
+C00264-3,MINE_3,EQ009-3,2021-11-01,Excavator Capacity,500,ton/day,2021-11-04,Curah hujan tinggi
+C00265-2,MINE_2,EQ024-2,2021-11-01,Hauling Capacity,500,ton/day,2021-11-07,Kemacetan hauling
+C00266-1,MINE_1,EQ043-1,2021-11-01,Hauling Capacity,500,ton/day,2021-11-06,Akses terhambat
+C00267-1,MINE_1,EQ043-1,2021-11-08,Excavator Capacity,500,ton/day,2021-11-11,Kerusakan mekanis
+C00268-2,MINE_2,EQ042-2,2021-11-08,Excavator Capacity,882,ton/day,2021-11-13,Kondisi lapangan kurang optimal
+C00269-3,MINE_3,EQ031-3,2021-11-08,Excavator Capacity,500,ton/day,2021-11-10,Material basah
+C00270-3,MINE_3,EQ021-3,2021-11-15,Excavator Capacity,500,ton/day,2021-11-19,Material basah
+C00271-2,MINE_2,EQ029-2,2021-11-15,Excavator Capacity,500,ton/day,2021-11-17,Material basah
+C00272-1,MINE_1,EQ005-1,2021-11-15,Excavator Capacity,500,ton/day,2021-11-19,Curah hujan tinggi
+C00273-2,MINE_2,EQ029-2,2021-11-22,Excavator Capacity,500,ton/day,2021-11-23,Material basah
+C00274-3,MINE_3,EQ046-3,2021-11-22,Excavator Capacity,500,ton/day,2021-11-27,Curah hujan tinggi
+C00275-1,MINE_1,EQ047-1,2021-11-22,Hauling Capacity,500,ton/day,2021-11-23,Jalan rusak
+C00276-1,MINE_1,EQ006-1,2021-12-01,Excavator Capacity,500,ton/day,2021-12-05,Material basah
+C00277-2,MINE_2,EQ004-2,2021-12-01,Hauling Capacity,500,ton/day,2021-12-02,Kemacetan hauling
+C00278-3,MINE_3,EQ031-3,2021-12-01,Excavator Capacity,500,ton/day,2021-12-02,Cuaca kurang mendukung
+C00279-1,MINE_1,EQ020-1,2021-12-08,Hauling Capacity,500,ton/day,2021-12-09,Perbaikan alat
+C00280-2,MINE_2,EQ004-2,2021-12-08,Excavator Capacity,500,ton/day,2021-12-10,Material basah
+C00281-3,MINE_3,EQ021-3,2021-12-08,Hauling Capacity,500,ton/day,2021-12-09,Kemacetan hauling
+C00282-2,MINE_2,EQ028-2,2021-12-15,Hauling Capacity,500,ton/day,2021-12-18,Kemacetan hauling
+C00283-3,MINE_3,EQ031-3,2021-12-15,Excavator Capacity,500,ton/day,2021-12-20,Cuaca kurang mendukung
+C00284-1,MINE_1,EQ027-1,2021-12-15,Excavator Capacity,500,ton/day,2021-12-20,Material basah
+C00285-3,MINE_3,EQ021-3,2021-12-22,Excavator Capacity,500,ton/day,2021-12-25,Cuaca kurang mendukung
+C00286-1,MINE_1,EQ045-1,2021-12-22,Hauling Capacity,500,ton/day,2021-12-27,Akses terhambat
+C00287-2,MINE_2,EQ040-2,2021-12-22,Crusher Capacity,500,ton/day,2021-12-23,Produksi tertunda
+C00288-4,MINE_4,EQ010-4,2022-01-01,Hauling Capacity,500,ton/day,2022-01-01,Akses terhambat
+C00289-3,MINE_3,EQ031-3,2022-01-01,Excavator Capacity,500,ton/day,2022-01-01,Material basah
+C00290-2,MINE_2,EQ028-2,2022-01-01,Hauling Capacity,500,ton/day,2022-01-04,Akses terhambat
+C00291-1,MINE_1,EQ015-1,2022-01-01,Excavator Capacity,500,ton/day,2022-01-04,Material basah
+C00292-3,MINE_3,EQ021-3,2022-01-08,Hauling Capacity,500,ton/day,2022-01-08,Kemacetan hauling
+C00293-2,MINE_2,EQ018-2,2022-01-08,Hauling Capacity,500,ton/day,2022-01-08,Kemacetan hauling
+C00294-4,MINE_4,EQ003-4,2022-01-08,Hauling Capacity,500,ton/day,2022-01-14,Kemacetan hauling
+C00295-1,MINE_1,EQ033-1,2022-01-08,Crusher Capacity,500,ton/day,2022-01-08,Perbaikan alat
+C00296-3,MINE_3,EQ021-3,2022-01-15,Crusher Capacity,500,ton/day,2022-01-19,Maintenance unit
+C00297-2,MINE_2,EQ040-2,2022-01-15,Excavator Capacity,500,ton/day,2022-01-15,Cuaca kurang mendukung
+C00298-1,MINE_1,EQ033-1,2022-01-15,Hauling Capacity,500,ton/day,2022-01-21,Jalan rusak
+C00299-4,MINE_4,EQ010-4,2022-01-15,Hauling Capacity,500,ton/day,2022-01-17,Akses terhambat
+C00300-1,MINE_1,EQ045-1,2022-01-22,Hauling Capacity,500,ton/day,2022-01-23,Maintenance unit
+C00301-2,MINE_2,EQ029-2,2022-01-22,Excavator Capacity,500,ton/day,2022-01-23,Cuaca kurang mendukung
+C00302-3,MINE_3,EQ046-3,2022-01-22,Excavator Capacity,510,ton/day,2022-01-28,Material basah
+C00303-4,MINE_4,EQ026-4,2022-01-22,Hauling Capacity,500,ton/day,2022-01-23,Akses terhambat
+C00304-1,MINE_1,EQ023-1,2022-02-01,Crusher Capacity,500,ton/day,2022-02-07,Kerusakan mekanis
+C00305-4,MINE_4,EQ010-4,2022-02-01,Hauling Capacity,500,ton/day,2022-02-04,Akses terhambat
+C00306-2,MINE_2,EQ029-2,2022-02-01,Excavator Capacity,500,ton/day,2022-02-05,Maintenance unit
+C00307-3,MINE_3,EQ021-3,2022-02-01,Excavator Capacity,500,ton/day,2022-02-03,Cuaca kurang mendukung
+C00308-4,MINE_4,EQ036-4,2022-02-08,Hauling Capacity,500,ton/day,2022-02-12,Maintenance unit
+C00309-2,MINE_2,EQ025-2,2022-02-08,Hauling Capacity,500,ton/day,2022-02-14,Kemacetan hauling
+C00310-3,MINE_3,EQ039-3,2022-02-08,Hauling Capacity,500,ton/day,2022-02-12,Akses terhambat
+C00311-1,MINE_1,EQ047-1,2022-02-08,Hauling Capacity,500,ton/day,2022-02-08,Kemacetan hauling
+C00312-2,MINE_2,EQ028-2,2022-02-15,Excavator Capacity,500,ton/day,2022-02-18,Cuaca kurang mendukung
+C00313-4,MINE_4,EQ036-4,2022-02-15,Excavator Capacity,500,ton/day,2022-02-19,Cuaca kurang mendukung
+C00314-1,MINE_1,EQ050-1,2022-02-15,Hauling Capacity,500,ton/day,2022-02-20,Jalan rusak
+C00315-3,MINE_3,EQ031-3,2022-02-15,Excavator Capacity,500,ton/day,2022-02-20,Curah hujan tinggi
+C00316-2,MINE_2,EQ049-2,2022-02-22,Hauling Capacity,500,ton/day,2022-02-25,Akses terhambat
+C00317-1,MINE_1,EQ047-1,2022-02-22,Hauling Capacity,500,ton/day,2022-02-26,Akses terhambat
+C00318-4,MINE_4,EQ026-4,2022-02-22,Hauling Capacity,500,ton/day,2022-02-27,Kemacetan hauling
+C00319-3,MINE_3,EQ009-3,2022-02-22,Excavator Capacity,500,ton/day,2022-02-22,Material basah
+C00320-3,MINE_3,EQ031-3,2022-03-01,Excavator Capacity,500,ton/day,2022-03-07,Curah hujan tinggi
+C00321-2,MINE_2,EQ004-2,2022-03-01,Hauling Capacity,538,ton/day,2022-03-02,Jalan rusak
+C00322-1,MINE_1,EQ041-1,2022-03-01,Hauling Capacity,500,ton/day,2022-03-01,Akses terhambat
+C00323-4,MINE_4,EQ013-4,2022-03-01,Hauling Capacity,500,ton/day,2022-03-07,Produksi tertunda
+C00324-1,MINE_1,EQ045-1,2022-03-08,Hauling Capacity,500,ton/day,2022-03-08,Jalan rusak
+C00325-4,MINE_4,EQ003-4,2022-03-08,Hauling Capacity,500,ton/day,2022-03-09,Jalan rusak
+C00326-3,MINE_3,EQ009-3,2022-03-08,Excavator Capacity,500,ton/day,2022-03-13,Cuaca kurang mendukung
+C00327-2,MINE_2,EQ029-2,2022-03-08,Excavator Capacity,500,ton/day,2022-03-08,Curah hujan tinggi
+C00328-3,MINE_3,EQ021-3,2022-03-15,Excavator Capacity,500,ton/day,2022-03-17,Maintenance unit
+C00329-1,MINE_1,EQ030-1,2022-03-15,Hauling Capacity,500,ton/day,2022-03-15,Kemacetan hauling
+C00330-4,MINE_4,EQ010-4,2022-03-15,Hauling Capacity,500,ton/day,2022-03-19,Maintenance unit
+C00331-2,MINE_2,EQ025-2,2022-03-15,Excavator Capacity,500,ton/day,2022-03-20,Cuaca kurang mendukung
+C00332-2,MINE_2,EQ029-2,2022-03-22,Hauling Capacity,500,ton/day,2022-03-23,Jalan rusak
+C00333-4,MINE_4,EQ036-4,2022-03-22,Hauling Capacity,500,ton/day,2022-03-25,Akses terhambat
+C00334-3,MINE_3,EQ039-3,2022-03-22,Hauling Capacity,500,ton/day,2022-03-27,Akses terhambat
+C00335-1,MINE_1,EQ037-1,2022-03-22,Excavator Capacity,500,ton/day,2022-03-24,Material basah
+C00336-2,MINE_2,EQ018-2,2022-04-01,Excavator Capacity,500,ton/day,2022-04-04,Kerusakan mekanis
+C00337-4,MINE_4,EQ003-4,2022-04-01,Crusher Capacity,500,ton/day,2022-04-03,Maintenance unit
+C00338-3,MINE_3,EQ046-3,2022-04-01,Hauling Capacity,500,ton/day,2022-04-03,Kemacetan hauling
+C00339-1,MINE_1,EQ041-1,2022-04-01,Crusher Capacity,500,ton/day,2022-04-02,Maintenance unit
+C00340-4,MINE_4,EQ003-4,2022-04-08,Excavator Capacity,590,ton/day,2022-04-09,Material basah
+C00341-2,MINE_2,EQ049-2,2022-04-08,Excavator Capacity,500,ton/day,2022-04-09,Kerusakan mekanis
+C00342-3,MINE_3,EQ039-3,2022-04-08,Hauling Capacity,500,ton/day,2022-04-09,Kerusakan mekanis
+C00343-1,MINE_1,EQ023-1,2022-04-08,Hauling Capacity,500,ton/day,2022-04-08,Akses terhambat
+C00344-4,MINE_4,EQ036-4,2022-04-15,Excavator Capacity,500,ton/day,2022-04-17,Curah hujan tinggi
+C00345-3,MINE_3,EQ046-3,2022-04-15,Hauling Capacity,500,ton/day,2022-04-16,Kemacetan hauling
+C00346-2,MINE_2,EQ004-2,2022-04-15,Excavator Capacity,760,ton/day,2022-04-20,Cuaca kurang mendukung
+C00347-1,MINE_1,EQ041-1,2022-04-15,Hauling Capacity,500,ton/day,2022-04-18,Perbaikan alat
+C00348-3,MINE_3,EQ046-3,2022-04-22,Hauling Capacity,500,ton/day,2022-04-22,Jalan rusak
+C00349-4,MINE_4,EQ003-4,2022-04-22,Excavator Capacity,500,ton/day,2022-04-24,Material basah
+C00350-2,MINE_2,EQ028-2,2022-04-22,Hauling Capacity,500,ton/day,2022-04-25,Maintenance unit
+C00351-1,MINE_1,EQ047-1,2022-04-22,Excavator Capacity,500,ton/day,2022-04-25,Curah hujan tinggi
+C00352-2,MINE_2,EQ001-2,2022-05-01,Hauling Capacity,500,ton/day,2022-05-07,Jalan rusak
+C00353-1,MINE_1,EQ007-1,2022-05-01,Excavator Capacity,500,ton/day,2022-05-07,Material basah
+C00354-4,MINE_4,EQ026-4,2022-05-01,Excavator Capacity,500,ton/day,2022-05-04,Curah hujan tinggi
+C00355-3,MINE_3,EQ009-3,2022-05-01,Excavator Capacity,500,ton/day,2022-05-07,Cuaca kurang mendukung
+C00356-1,MINE_1,EQ047-1,2022-05-08,Excavator Capacity,500,ton/day,2022-05-14,Perbaikan alat
+C00357-3,MINE_3,EQ009-3,2022-05-08,Excavator Capacity,500,ton/day,2022-05-10,Cuaca kurang mendukung
+C00358-4,MINE_4,EQ036-4,2022-05-08,Excavator Capacity,500,ton/day,2022-05-10,Gangguan operasional
+C00359-2,MINE_2,EQ001-2,2022-05-08,Crusher Capacity,500,ton/day,2022-05-10,Kondisi lapangan kurang optimal
+C00360-3,MINE_3,EQ031-3,2022-05-15,Excavator Capacity,500,ton/day,2022-05-16,Cuaca kurang mendukung
+C00361-1,MINE_1,EQ023-1,2022-05-15,Hauling Capacity,500,ton/day,2022-05-18,Akses terhambat
+C00362-2,MINE_2,EQ048-2,2022-05-15,Excavator Capacity,500,ton/day,2022-05-18,Cuaca kurang mendukung
+C00363-4,MINE_4,EQ026-4,2022-05-15,Excavator Capacity,500,ton/day,2022-05-21,Alur produksi lancar
+C00364-2,MINE_2,EQ018-2,2022-05-22,Excavator Capacity,500,ton/day,2022-05-24,Cuaca kurang mendukung
+C00365-4,MINE_4,EQ026-4,2022-05-22,Excavator Capacity,500,ton/day,2022-05-24,Perbaikan alat
+C00366-1,MINE_1,EQ017-1,2022-05-22,Hauling Capacity,500,ton/day,2022-05-27,Jalan rusak
+C00367-3,MINE_3,EQ031-3,2022-05-22,Excavator Capacity,500,ton/day,2022-05-27,Curah hujan tinggi
+C00368-1,MINE_1,EQ017-1,2022-06-01,Hauling Capacity,500,ton/day,2022-06-06,Jalan rusak
+C00369-4,MINE_4,EQ010-4,2022-06-01,Hauling Capacity,500,ton/day,2022-06-05,Kemacetan hauling
+C00370-3,MINE_3,EQ009-3,2022-06-01,Hauling Capacity,500,ton/day,2022-06-02,Jalan rusak
+C00371-2,MINE_2,EQ049-2,2022-06-01,Excavator Capacity,500,ton/day,2022-06-05,Cuaca kurang mendukung
+C00372-4,MINE_4,EQ026-4,2022-06-08,Hauling Capacity,500,ton/day,2022-06-13,Kerusakan mekanis
+C00373-2,MINE_2,EQ048-2,2022-06-08,Excavator Capacity,500,ton/day,2022-06-13,Curah hujan tinggi
+C00374-3,MINE_3,EQ009-3,2022-06-08,Hauling Capacity,500,ton/day,2022-06-11,Jalan rusak
+C00375-1,MINE_1,EQ017-1,2022-06-08,Excavator Capacity,500,ton/day,2022-06-11,Material basah
+C00376-2,MINE_2,EQ040-2,2022-06-15,Hauling Capacity,500,ton/day,2022-06-19,Akses terhambat
+C00377-1,MINE_1,EQ020-1,2022-06-15,Hauling Capacity,500,ton/day,2022-06-20,Jalan rusak
+C00378-4,MINE_4,EQ013-4,2022-06-15,Hauling Capacity,500,ton/day,2022-06-20,Jalan rusak
+C00379-3,MINE_3,EQ009-3,2022-06-15,Excavator Capacity,500,ton/day,2022-06-21,Material basah
+C00380-2,MINE_2,EQ004-2,2022-06-22,Excavator Capacity,599,ton/day,2022-06-24,Curah hujan tinggi
+C00381-4,MINE_4,EQ010-4,2022-06-22,Excavator Capacity,500,ton/day,2022-06-28,Kerusakan mekanis
+C00382-1,MINE_1,EQ050-1,2022-06-22,Excavator Capacity,500,ton/day,2022-06-25,Material basah
+C00383-3,MINE_3,EQ039-3,2022-06-22,Hauling Capacity,500,ton/day,2022-06-28,Kerusakan mekanis
+C00384-2,MINE_2,EQ018-2,2022-07-01,Excavator Capacity,500,ton/day,2022-07-02,Material basah
+C00385-1,MINE_1,EQ027-1,2022-07-01,Crusher Capacity,500,ton/day,2022-07-04,Maintenance unit
+C00386-4,MINE_4,EQ003-4,2022-07-01,Excavator Capacity,500,ton/day,2022-07-04,Material basah
+C00387-3,MINE_3,EQ039-3,2022-07-01,Hauling Capacity,500,ton/day,2022-07-03,Akses terhambat
+C00388-3,MINE_3,EQ009-3,2022-07-08,Hauling Capacity,500,ton/day,2022-07-12,Akses terhambat
+C00389-1,MINE_1,EQ050-1,2022-07-08,Crusher Capacity,500,ton/day,2022-07-13,Perbaikan alat
+C00390-4,MINE_4,EQ003-4,2022-07-08,Excavator Capacity,525,ton/day,2022-07-10,Curah hujan tinggi
+C00391-2,MINE_2,EQ028-2,2022-07-08,Excavator Capacity,500,ton/day,2022-07-12,Cuaca kurang mendukung
+C00392-3,MINE_3,EQ046-3,2022-07-15,Hauling Capacity,500,ton/day,2022-07-21,Akses terhambat
+C00393-1,MINE_1,EQ016-1,2022-07-15,Excavator Capacity,621,ton/day,2022-07-16,Cuaca kurang mendukung
+C00394-4,MINE_4,EQ013-4,2022-07-15,Excavator Capacity,500,ton/day,2022-07-18,Material basah
+C00395-2,MINE_2,EQ029-2,2022-07-15,Excavator Capacity,500,ton/day,2022-07-15,Cuaca kurang mendukung
+C00396-1,MINE_1,EQ022-1,2022-07-22,Excavator Capacity,500,ton/day,2022-07-28,Material basah
+C00397-4,MINE_4,EQ013-4,2022-07-22,Hauling Capacity,500,ton/day,2022-07-24,Kerusakan mekanis
+C00398-2,MINE_2,EQ042-2,2022-07-22,Hauling Capacity,500,ton/day,2022-07-26,Kemacetan hauling
+C00399-3,MINE_3,EQ046-3,2022-07-22,Excavator Capacity,575,ton/day,2022-07-24,Curah hujan tinggi
+C00400-3,MINE_3,EQ009-3,2022-08-01,Hauling Capacity,500,ton/day,2022-08-06,Perbaikan alat
+C00401-4,MINE_4,EQ036-4,2022-08-01,Excavator Capacity,500,ton/day,2022-08-05,Material basah
+C00402-2,MINE_2,EQ042-2,2022-08-01,Excavator Capacity,500,ton/day,2022-08-07,Curah hujan tinggi
+C00403-1,MINE_1,EQ041-1,2022-08-01,Excavator Capacity,500,ton/day,2022-08-07,Material basah
+C00404-2,MINE_2,EQ004-2,2022-08-08,Hauling Capacity,500,ton/day,2022-08-11,Akses terhambat
+C00405-4,MINE_4,EQ036-4,2022-08-08,Hauling Capacity,500,ton/day,2022-08-08,Kemacetan hauling
+C00406-1,MINE_1,EQ027-1,2022-08-08,Excavator Capacity,500,ton/day,2022-08-10,Kerusakan mekanis
+C00407-3,MINE_3,EQ009-3,2022-08-08,Hauling Capacity,500,ton/day,2022-08-12,Perbaikan alat
+C00408-3,MINE_3,EQ031-3,2022-08-15,Hauling Capacity,500,ton/day,2022-08-18,Operasi normal
+C00409-4,MINE_4,EQ003-4,2022-08-15,Excavator Capacity,540,ton/day,2022-08-20,Curah hujan tinggi
+C00410-2,MINE_2,EQ040-2,2022-08-15,Hauling Capacity,500,ton/day,2022-08-21,Akses terhambat
+C00411-1,MINE_1,EQ005-1,2022-08-15,Excavator Capacity,500,ton/day,2022-08-18,Curah hujan tinggi
+C00412-3,MINE_3,EQ046-3,2022-08-22,Excavator Capacity,500,ton/day,2022-08-25,Material basah
+C00413-4,MINE_4,EQ036-4,2022-08-22,Excavator Capacity,500,ton/day,2022-08-23,Material basah
+C00414-2,MINE_2,EQ029-2,2022-08-22,Hauling Capacity,500,ton/day,2022-08-26,Jalan rusak
+C00415-1,MINE_1,EQ020-1,2022-08-22,Excavator Capacity,500,ton/day,2022-08-26,Curah hujan tinggi
+C00416-4,MINE_4,EQ036-4,2022-09-01,Hauling Capacity,500,ton/day,2022-09-06,Kemacetan hauling
+C00417-2,MINE_2,EQ025-2,2022-09-01,Excavator Capacity,500,ton/day,2022-09-03,Material basah
+C00418-1,MINE_1,EQ038-1,2022-09-01,Hauling Capacity,500,ton/day,2022-09-05,Jalan rusak
+C00419-3,MINE_3,EQ046-3,2022-09-01,Crusher Capacity,500,ton/day,2022-09-02,Kerusakan mekanis
+C00420-1,MINE_1,EQ037-1,2022-09-08,Hauling Capacity,500,ton/day,2022-09-13,Kemacetan hauling
+C00421-4,MINE_4,EQ013-4,2022-09-08,Hauling Capacity,500,ton/day,2022-09-11,Jalan rusak
+C00422-3,MINE_3,EQ039-3,2022-09-08,Excavator Capacity,500,ton/day,2022-09-14,Curah hujan tinggi
+C00423-2,MINE_2,EQ025-2,2022-09-08,Excavator Capacity,500,ton/day,2022-09-14,Curah hujan tinggi
+C00424-2,MINE_2,EQ042-2,2022-09-15,Hauling Capacity,614,ton/day,2022-09-21,Kemacetan hauling
+C00425-1,MINE_1,EQ043-1,2022-09-15,Hauling Capacity,500,ton/day,2022-09-15,Perbaikan alat
+C00426-3,MINE_3,EQ021-3,2022-09-15,Crusher Capacity,500,ton/day,2022-09-15,Kerusakan mekanis
+C00427-4,MINE_4,EQ010-4,2022-09-15,Excavator Capacity,500,ton/day,2022-09-21,Cuaca kurang mendukung
+C00428-4,MINE_4,EQ036-4,2022-09-22,Excavator Capacity,500,ton/day,2022-09-22,Curah hujan tinggi
+C00429-1,MINE_1,EQ006-1,2022-09-22,Hauling Capacity,500,ton/day,2022-09-27,Jalan rusak
+C00430-3,MINE_3,EQ046-3,2022-09-22,Hauling Capacity,500,ton/day,2022-09-26,Akses terhambat
+C00431-2,MINE_2,EQ024-2,2022-09-22,Excavator Capacity,500,ton/day,2022-09-25,Kerusakan mekanis
+C00432-2,MINE_2,EQ040-2,2022-10-01,Excavator Capacity,500,ton/day,2022-10-03,Material basah
+C00433-1,MINE_1,EQ005-1,2022-10-01,Hauling Capacity,500,ton/day,2022-10-03,Kerusakan mekanis
+C00434-3,MINE_3,EQ046-3,2022-10-01,Excavator Capacity,500,ton/day,2022-10-07,Perbaikan alat
+C00435-4,MINE_4,EQ013-4,2022-10-01,Hauling Capacity,500,ton/day,2022-10-07,Jalan rusak
+C00436-3,MINE_3,EQ009-3,2022-10-08,Crusher Capacity,500,ton/day,2022-10-08,Operasi normal
+C00437-4,MINE_4,EQ026-4,2022-10-08,Hauling Capacity,500,ton/day,2022-10-09,Jalan rusak
+C00438-1,MINE_1,EQ050-1,2022-10-08,Excavator Capacity,500,ton/day,2022-10-09,Material basah
+C00439-2,MINE_2,EQ040-2,2022-10-08,Excavator Capacity,500,ton/day,2022-10-09,Perbaikan alat
+C00440-1,MINE_1,EQ023-1,2022-10-15,Excavator Capacity,500,ton/day,2022-10-15,Material basah
+C00441-2,MINE_2,EQ048-2,2022-10-15,Hauling Capacity,500,ton/day,2022-10-21,Akses terhambat
+C00442-3,MINE_3,EQ039-3,2022-10-15,Excavator Capacity,500,ton/day,2022-10-20,Cuaca kurang mendukung
+C00443-4,MINE_4,EQ003-4,2022-10-15,Excavator Capacity,742,ton/day,2022-10-19,Cuaca kurang mendukung
+C00444-1,MINE_1,EQ038-1,2022-10-22,Crusher Capacity,500,ton/day,2022-10-26,Kerusakan mekanis
+C00445-4,MINE_4,EQ026-4,2022-10-22,Excavator Capacity,500,ton/day,2022-10-28,Kerusakan mekanis
+C00446-2,MINE_2,EQ025-2,2022-10-22,Hauling Capacity,500,ton/day,2022-10-23,Kemacetan hauling
+C00447-3,MINE_3,EQ031-3,2022-10-22,Hauling Capacity,500,ton/day,2022-10-25,Akses terhambat
+C00448-2,MINE_2,EQ024-2,2022-11-01,Excavator Capacity,500,ton/day,2022-11-02,Cuaca kurang mendukung
+C00449-1,MINE_1,EQ027-1,2022-11-01,Excavator Capacity,500,ton/day,2022-11-05,Curah hujan tinggi
+C00450-3,MINE_3,EQ046-3,2022-11-01,Excavator Capacity,500,ton/day,2022-11-07,Cuaca kurang mendukung
+C00451-4,MINE_4,EQ003-4,2022-11-01,Excavator Capacity,500,ton/day,2022-11-07,Curah hujan tinggi
+C00452-3,MINE_3,EQ046-3,2022-11-08,Excavator Capacity,500,ton/day,2022-11-12,Material basah
+C00453-1,MINE_1,EQ017-1,2022-11-08,Hauling Capacity,500,ton/day,2022-11-14,Jalan rusak
+C00454-2,MINE_2,EQ028-2,2022-11-08,Excavator Capacity,500,ton/day,2022-11-12,Kerusakan mekanis
+C00455-4,MINE_4,EQ026-4,2022-11-08,Excavator Capacity,500,ton/day,2022-11-11,Material basah
+C00456-3,MINE_3,EQ046-3,2022-11-15,Hauling Capacity,500,ton/day,2022-11-16,Jalan rusak
+C00457-1,MINE_1,EQ038-1,2022-11-15,Hauling Capacity,500,ton/day,2022-11-16,Akses terhambat
+C00458-2,MINE_2,EQ042-2,2022-11-15,Hauling Capacity,500,ton/day,2022-11-18,Kemacetan hauling
+C00459-4,MINE_4,EQ026-4,2022-11-15,Hauling Capacity,500,ton/day,2022-11-18,Operasi normal
+C00460-1,MINE_1,EQ011-1,2022-11-22,Hauling Capacity,500,ton/day,2022-11-28,Akses terhambat
+C00461-3,MINE_3,EQ046-3,2022-11-22,Hauling Capacity,500,ton/day,2022-11-28,Akses terhambat
+C00462-2,MINE_2,EQ025-2,2022-11-22,Excavator Capacity,500,ton/day,2022-11-28,Curah hujan tinggi
+C00463-4,MINE_4,EQ013-4,2022-11-22,Hauling Capacity,500,ton/day,2022-11-23,Kemacetan hauling
+C00464-2,MINE_2,EQ019-2,2022-12-01,Hauling Capacity,500,ton/day,2022-12-06,Akses terhambat
+C00465-4,MINE_4,EQ003-4,2022-12-01,Hauling Capacity,500,ton/day,2022-12-05,Kemacetan hauling
+C00466-1,MINE_1,EQ005-1,2022-12-01,Excavator Capacity,500,ton/day,2022-12-07,Curah hujan tinggi
+C00467-3,MINE_3,EQ031-3,2022-12-01,Excavator Capacity,500,ton/day,2022-12-03,Material basah
+C00468-2,MINE_2,EQ001-2,2022-12-08,Excavator Capacity,500,ton/day,2022-12-12,Cuaca kurang mendukung
+C00469-1,MINE_1,EQ027-1,2022-12-08,Excavator Capacity,500,ton/day,2022-12-08,Operasi normal
+C00470-4,MINE_4,EQ003-4,2022-12-08,Hauling Capacity,500,ton/day,2022-12-14,Akses terhambat
+C00471-3,MINE_3,EQ031-3,2022-12-08,Hauling Capacity,500,ton/day,2022-12-11,Jalan rusak
+C00472-4,MINE_4,EQ010-4,2022-12-15,Crusher Capacity,500,ton/day,2022-12-16,Perbaikan alat
+C00473-1,MINE_1,EQ011-1,2022-12-15,Excavator Capacity,500,ton/day,2022-12-17,Material basah
+C00474-3,MINE_3,EQ039-3,2022-12-15,Hauling Capacity,500,ton/day,2022-12-20,Jalan rusak
+C00475-2,MINE_2,EQ049-2,2022-12-15,Excavator Capacity,500,ton/day,2022-12-18,Material basah
+C00476-3,MINE_3,EQ021-3,2022-12-22,Hauling Capacity,500,ton/day,2022-12-26,Akses terhambat
+C00477-1,MINE_1,EQ015-1,2022-12-22,Excavator Capacity,500,ton/day,2022-12-23,Cuaca kurang mendukung
+C00478-2,MINE_2,EQ004-2,2022-12-22,Hauling Capacity,500,ton/day,2022-12-25,Akses terhambat
+C00479-4,MINE_4,EQ013-4,2022-12-22,Crusher Capacity,550,ton/day,2022-12-28,Gangguan operasional
+C00480-3,MINE_3,EQ031-3,2023-01-01,Hauling Capacity,500,ton/day,2023-01-04,Akses terhambat
+C00481-1,MINE_1,EQ011-1,2023-01-01,Excavator Capacity,500,ton/day,2023-01-04,Maintenance unit
+C00482-2,MINE_2,EQ024-2,2023-01-01,Excavator Capacity,500,ton/day,2023-01-01,Cuaca kurang mendukung
+C00483-5,MINE_5,EQ034-5,2023-01-01,Excavator Capacity,500,ton/day,2023-01-05,Material basah
+C00484-4,MINE_4,EQ013-4,2023-01-01,Hauling Capacity,500,ton/day,2023-01-05,Jalan rusak
+C00485-2,MINE_2,EQ042-2,2023-01-08,Hauling Capacity,500,ton/day,2023-01-08,Kemacetan hauling
+C00486-4,MINE_4,EQ026-4,2023-01-08,Excavator Capacity,500,ton/day,2023-01-14,Material basah
+C00487-3,MINE_3,EQ039-3,2023-01-08,Hauling Capacity,500,ton/day,2023-01-13,Kerusakan mekanis
+C00488-5,MINE_5,EQ044-5,2023-01-08,Excavator Capacity,500,ton/day,2023-01-11,Curah hujan tinggi
+C00489-1,MINE_1,EQ016-1,2023-01-08,Hauling Capacity,500,ton/day,2023-01-13,Jalan rusak
+C00490-1,MINE_1,EQ020-1,2023-01-15,Excavator Capacity,500,ton/day,2023-01-20,Material basah
+C00491-5,MINE_5,EQ034-5,2023-01-15,Excavator Capacity,500,ton/day,2023-01-18,Cuaca kurang mendukung
+C00492-2,MINE_2,EQ004-2,2023-01-15,Crusher Capacity,500,ton/day,2023-01-17,Perbaikan alat
+C00493-4,MINE_4,EQ013-4,2023-01-15,Excavator Capacity,500,ton/day,2023-01-16,Material basah
+C00494-3,MINE_3,EQ046-3,2023-01-15,Excavator Capacity,500,ton/day,2023-01-18,Maintenance unit
+C00495-4,MINE_4,EQ003-4,2023-01-22,Excavator Capacity,500,ton/day,2023-01-27,Material basah
+C00496-2,MINE_2,EQ029-2,2023-01-22,Hauling Capacity,500,ton/day,2023-01-27,Akses terhambat
+C00497-5,MINE_5,EQ008-5,2023-01-22,Hauling Capacity,500,ton/day,2023-01-23,Akses terhambat
+C00498-1,MINE_1,EQ006-1,2023-01-22,Excavator Capacity,500,ton/day,2023-01-25,Curah hujan tinggi
+C00499-3,MINE_3,EQ046-3,2023-01-22,Excavator Capacity,500,ton/day,2023-01-26,Perbaikan alat
+C00500-4,MINE_4,EQ036-4,2023-02-01,Hauling Capacity,500,ton/day,2023-02-03,Akses terhambat
+C00501-5,MINE_5,EQ035-5,2023-02-01,Excavator Capacity,500,ton/day,2023-02-07,Cuaca kurang mendukung
+C00502-3,MINE_3,EQ039-3,2023-02-01,Hauling Capacity,500,ton/day,2023-02-01,Jalan rusak
+C00503-2,MINE_2,EQ004-2,2023-02-01,Hauling Capacity,733,ton/day,2023-02-07,Akses terhambat
+C00504-1,MINE_1,EQ045-1,2023-02-01,Excavator Capacity,500,ton/day,2023-02-01,Cuaca kurang mendukung
+C00505-1,MINE_1,EQ037-1,2023-02-08,Hauling Capacity,500,ton/day,2023-02-13,Jalan rusak
+C00506-3,MINE_3,EQ021-3,2023-02-08,Hauling Capacity,500,ton/day,2023-02-11,Akses terhambat
+C00507-5,MINE_5,EQ034-5,2023-02-08,Excavator Capacity,500,ton/day,2023-02-14,Curah hujan tinggi
+C00508-2,MINE_2,EQ028-2,2023-02-08,Hauling Capacity,500,ton/day,2023-02-14,Jalan rusak
+C00509-4,MINE_4,EQ036-4,2023-02-08,Excavator Capacity,500,ton/day,2023-02-13,Cuaca kurang mendukung
+C00510-3,MINE_3,EQ021-3,2023-02-15,Excavator Capacity,500,ton/day,2023-02-18,Cuaca kurang mendukung
+C00511-5,MINE_5,EQ012-5,2023-02-15,Excavator Capacity,500,ton/day,2023-02-20,Curah hujan tinggi
+C00512-4,MINE_4,EQ026-4,2023-02-15,Crusher Capacity,500,ton/day,2023-02-19,Kondisi lapangan kurang optimal
+C00513-2,MINE_2,EQ004-2,2023-02-15,Hauling Capacity,500,ton/day,2023-02-21,Jalan rusak
+C00514-1,MINE_1,EQ045-1,2023-02-15,Hauling Capacity,500,ton/day,2023-02-19,Akses terhambat
+C00515-4,MINE_4,EQ010-4,2023-02-22,Hauling Capacity,500,ton/day,2023-02-26,Akses terhambat
+C00516-2,MINE_2,EQ024-2,2023-02-22,Excavator Capacity,500,ton/day,2023-02-24,Maintenance unit
+C00517-1,MINE_1,EQ017-1,2023-02-22,Hauling Capacity,500,ton/day,2023-02-25,Akses terhambat
+C00518-3,MINE_3,EQ031-3,2023-02-22,Hauling Capacity,500,ton/day,2023-02-25,Jalan rusak
+C00519-5,MINE_5,EQ035-5,2023-02-22,Hauling Capacity,500,ton/day,2023-02-26,Maintenance unit
+C00520-5,MINE_5,EQ008-5,2023-03-01,Hauling Capacity,500,ton/day,2023-03-05,Alur produksi lancar
+C00521-3,MINE_3,EQ009-3,2023-03-01,Hauling Capacity,500,ton/day,2023-03-01,Akses terhambat
+C00522-2,MINE_2,EQ018-2,2023-03-01,Excavator Capacity,500,ton/day,2023-03-01,Curah hujan tinggi
+C00523-1,MINE_1,EQ005-1,2023-03-01,Hauling Capacity,500,ton/day,2023-03-04,Maintenance unit
+C00524-4,MINE_4,EQ013-4,2023-03-01,Excavator Capacity,500,ton/day,2023-03-06,Cuaca kurang mendukung
+C00525-5,MINE_5,EQ044-5,2023-03-08,Excavator Capacity,500,ton/day,2023-03-12,Cuaca kurang mendukung
+C00526-3,MINE_3,EQ009-3,2023-03-08,Hauling Capacity,500,ton/day,2023-03-14,Akses terhambat
+C00527-1,MINE_1,EQ007-1,2023-03-08,Excavator Capacity,500,ton/day,2023-03-14,Curah hujan tinggi
+C00528-4,MINE_4,EQ013-4,2023-03-08,Excavator Capacity,500,ton/day,2023-03-08,Cuaca kurang mendukung
+C00529-2,MINE_2,EQ025-2,2023-03-08,Excavator Capacity,500,ton/day,2023-03-13,Kondisi lapangan kurang optimal
+C00530-4,MINE_4,EQ003-4,2023-03-15,Crusher Capacity,771,ton/day,2023-03-18,Kondisi lapangan kurang optimal
+C00531-1,MINE_1,EQ038-1,2023-03-15,Hauling Capacity,500,ton/day,2023-03-20,Akses terhambat
+C00532-3,MINE_3,EQ021-3,2023-03-15,Hauling Capacity,500,ton/day,2023-03-21,Maintenance unit
+C00533-5,MINE_5,EQ002-5,2023-03-15,Excavator Capacity,500,ton/day,2023-03-16,Kerusakan mekanis
+C00534-2,MINE_2,EQ048-2,2023-03-15,Hauling Capacity,500,ton/day,2023-03-15,Jalan rusak
+C00535-2,MINE_2,EQ025-2,2023-03-22,Excavator Capacity,500,ton/day,2023-03-28,Material basah
+C00536-4,MINE_4,EQ010-4,2023-03-22,Excavator Capacity,690,ton/day,2023-03-23,Kondisi lapangan kurang optimal
+C00537-3,MINE_3,EQ009-3,2023-03-22,Excavator Capacity,500,ton/day,2023-03-25,Cuaca kurang mendukung
+C00538-1,MINE_1,EQ038-1,2023-03-22,Hauling Capacity,500,ton/day,2023-03-23,Akses terhambat
+C00539-5,MINE_5,EQ012-5,2023-03-22,Hauling Capacity,500,ton/day,2023-03-27,Kemacetan hauling
+C00540-4,MINE_4,EQ003-4,2023-04-01,Excavator Capacity,500,ton/day,2023-04-04,Material basah
+C00541-5,MINE_5,EQ002-5,2023-04-01,Hauling Capacity,500,ton/day,2023-04-06,Kemacetan hauling
+C00542-1,MINE_1,EQ022-1,2023-04-01,Hauling Capacity,500,ton/day,2023-04-06,Jalan rusak
+C00543-2,MINE_2,EQ004-2,2023-04-01,Excavator Capacity,500,ton/day,2023-04-02,Kerusakan mekanis
+C00544-3,MINE_3,EQ046-3,2023-04-01,Excavator Capacity,500,ton/day,2023-04-06,Material basah
+C00545-5,MINE_5,EQ035-5,2023-04-08,Excavator Capacity,500,ton/day,2023-04-13,Cuaca kurang mendukung
+C00546-1,MINE_1,EQ032-1,2023-04-08,Excavator Capacity,500,ton/day,2023-04-12,Maintenance unit
+C00547-2,MINE_2,EQ001-2,2023-04-08,Hauling Capacity,500,ton/day,2023-04-11,Kemacetan hauling
+C00548-3,MINE_3,EQ021-3,2023-04-08,Crusher Capacity,500,ton/day,2023-04-11,Kerusakan mekanis
+C00549-4,MINE_4,EQ010-4,2023-04-08,Excavator Capacity,500,ton/day,2023-04-08,Curah hujan tinggi
+C00550-3,MINE_3,EQ039-3,2023-04-15,Excavator Capacity,500,ton/day,2023-04-21,Cuaca kurang mendukung
+C00551-1,MINE_1,EQ047-1,2023-04-15,Excavator Capacity,500,ton/day,2023-04-15,Cuaca kurang mendukung
+C00552-4,MINE_4,EQ010-4,2023-04-15,Crusher Capacity,500,ton/day,2023-04-15,Perbaikan alat
+C00553-2,MINE_2,EQ018-2,2023-04-15,Excavator Capacity,500,ton/day,2023-04-16,Cuaca kurang mendukung
+C00554-5,MINE_5,EQ044-5,2023-04-15,Excavator Capacity,500,ton/day,2023-04-20,Curah hujan tinggi
+C00555-1,MINE_1,EQ022-1,2023-04-22,Excavator Capacity,500,ton/day,2023-04-26,Curah hujan tinggi
+C00556-4,MINE_4,EQ003-4,2023-04-22,Excavator Capacity,500,ton/day,2023-04-23,Material basah
+C00557-3,MINE_3,EQ009-3,2023-04-22,Excavator Capacity,500,ton/day,2023-04-23,Maintenance unit
+C00558-2,MINE_2,EQ029-2,2023-04-22,Crusher Capacity,500,ton/day,2023-04-28,Kerusakan mekanis
+C00559-5,MINE_5,EQ035-5,2023-04-22,Excavator Capacity,500,ton/day,2023-04-25,Material basah
+C00560-1,MINE_1,EQ038-1,2023-05-01,Hauling Capacity,500,ton/day,2023-05-06,Jalan rusak
+C00561-3,MINE_3,EQ039-3,2023-05-01,Excavator Capacity,500,ton/day,2023-05-06,Curah hujan tinggi
+C00562-4,MINE_4,EQ003-4,2023-05-01,Excavator Capacity,500,ton/day,2023-05-06,Material basah
+C00563-2,MINE_2,EQ019-2,2023-05-01,Hauling Capacity,500,ton/day,2023-05-07,Akses terhambat
+C00564-5,MINE_5,EQ008-5,2023-05-01,Excavator Capacity,500,ton/day,2023-05-02,Maintenance unit
+C00565-1,MINE_1,EQ030-1,2023-05-08,Excavator Capacity,500,ton/day,2023-05-09,Material basah
+C00566-3,MINE_3,EQ021-3,2023-05-08,Crusher Capacity,500,ton/day,2023-05-10,Alur produksi lancar
+C00567-4,MINE_4,EQ003-4,2023-05-08,Excavator Capacity,500,ton/day,2023-05-12,Material basah
+C00568-5,MINE_5,EQ034-5,2023-05-08,Excavator Capacity,500,ton/day,2023-05-14,Curah hujan tinggi
+C00569-2,MINE_2,EQ024-2,2023-05-08,Excavator Capacity,500,ton/day,2023-05-11,Curah hujan tinggi
+C00570-3,MINE_3,EQ009-3,2023-05-15,Hauling Capacity,500,ton/day,2023-05-16,Akses terhambat
+C00571-2,MINE_2,EQ001-2,2023-05-15,Hauling Capacity,500,ton/day,2023-05-21,Kemacetan hauling
+C00572-1,MINE_1,EQ007-1,2023-05-15,Hauling Capacity,794,ton/day,2023-05-20,Gangguan operasional
+C00573-5,MINE_5,EQ035-5,2023-05-15,Excavator Capacity,500,ton/day,2023-05-21,Cuaca kurang mendukung
+C00574-4,MINE_4,EQ026-4,2023-05-15,Excavator Capacity,500,ton/day,2023-05-21,Cuaca kurang mendukung
+C00575-3,MINE_3,EQ021-3,2023-05-22,Excavator Capacity,500,ton/day,2023-05-25,Curah hujan tinggi
+C00576-4,MINE_4,EQ010-4,2023-05-22,Hauling Capacity,500,ton/day,2023-05-24,Akses terhambat
+C00577-5,MINE_5,EQ034-5,2023-05-22,Hauling Capacity,500,ton/day,2023-05-27,Akses terhambat
+C00578-2,MINE_2,EQ024-2,2023-05-22,Excavator Capacity,500,ton/day,2023-05-24,Curah hujan tinggi
+C00579-1,MINE_1,EQ038-1,2023-05-22,Hauling Capacity,500,ton/day,2023-05-26,Kemacetan hauling
+C00580-1,MINE_1,EQ032-1,2023-06-01,Excavator Capacity,500,ton/day,2023-06-02,Maintenance unit
+C00581-4,MINE_4,EQ013-4,2023-06-01,Hauling Capacity,500,ton/day,2023-06-07,Perbaikan alat
+C00582-3,MINE_3,EQ009-3,2023-06-01,Crusher Capacity,500,ton/day,2023-06-04,Maintenance unit
+C00583-2,MINE_2,EQ049-2,2023-06-01,Hauling Capacity,500,ton/day,2023-06-07,Maintenance unit
+C00584-5,MINE_5,EQ008-5,2023-06-01,Excavator Capacity,500,ton/day,2023-06-04,Perbaikan alat
+C00585-1,MINE_1,EQ037-1,2023-06-08,Hauling Capacity,500,ton/day,2023-06-14,Operasi normal
+C00586-4,MINE_4,EQ013-4,2023-06-08,Hauling Capacity,500,ton/day,2023-06-14,Perbaikan alat
+C00587-2,MINE_2,EQ018-2,2023-06-08,Excavator Capacity,500,ton/day,2023-06-12,Curah hujan tinggi
+C00588-3,MINE_3,EQ046-3,2023-06-08,Crusher Capacity,500,ton/day,2023-06-10,Perbaikan alat
+C00589-5,MINE_5,EQ012-5,2023-06-08,Hauling Capacity,500,ton/day,2023-06-10,Akses terhambat
+C00590-4,MINE_4,EQ010-4,2023-06-15,Hauling Capacity,596,ton/day,2023-06-17,Jalan rusak
+C00591-2,MINE_2,EQ040-2,2023-06-15,Crusher Capacity,627,ton/day,2023-06-16,Gangguan operasional
+C00592-5,MINE_5,EQ008-5,2023-06-15,Hauling Capacity,500,ton/day,2023-06-19,Perbaikan alat
+C00593-3,MINE_3,EQ009-3,2023-06-15,Hauling Capacity,500,ton/day,2023-06-19,Jalan rusak
+C00594-1,MINE_1,EQ007-1,2023-06-15,Excavator Capacity,500,ton/day,2023-06-19,Curah hujan tinggi
+C00595-3,MINE_3,EQ046-3,2023-06-22,Excavator Capacity,500,ton/day,2023-06-22,Curah hujan tinggi
+C00596-1,MINE_1,EQ032-1,2023-06-22,Hauling Capacity,500,ton/day,2023-06-22,Jalan rusak
+C00597-4,MINE_4,EQ003-4,2023-06-22,Crusher Capacity,500,ton/day,2023-06-26,Maintenance unit
+C00598-2,MINE_2,EQ001-2,2023-06-22,Hauling Capacity,500,ton/day,2023-06-27,Kerusakan mekanis
+C00599-5,MINE_5,EQ008-5,2023-06-22,Excavator Capacity,500,ton/day,2023-06-27,Material basah
+C00600-1,MINE_1,EQ023-1,2023-07-01,Hauling Capacity,500,ton/day,2023-07-06,Perbaikan alat
+C00601-4,MINE_4,EQ003-4,2023-07-01,Hauling Capacity,500,ton/day,2023-07-05,Kerusakan mekanis
+C00602-2,MINE_2,EQ018-2,2023-07-01,Excavator Capacity,500,ton/day,2023-07-06,Cuaca kurang mendukung
+C00603-5,MINE_5,EQ002-5,2023-07-01,Hauling Capacity,500,ton/day,2023-07-07,Kerusakan mekanis
+C00604-3,MINE_3,EQ009-3,2023-07-01,Excavator Capacity,500,ton/day,2023-07-04,Curah hujan tinggi
+C00605-4,MINE_4,EQ036-4,2023-07-08,Excavator Capacity,500,ton/day,2023-07-14,Material basah
+C00606-5,MINE_5,EQ044-5,2023-07-08,Hauling Capacity,500,ton/day,2023-07-11,Jalan rusak
+C00607-3,MINE_3,EQ031-3,2023-07-08,Crusher Capacity,500,ton/day,2023-07-11,Perbaikan alat
+C00608-1,MINE_1,EQ017-1,2023-07-08,Crusher Capacity,500,ton/day,2023-07-10,Perbaikan alat
+C00609-2,MINE_2,EQ029-2,2023-07-08,Excavator Capacity,500,ton/day,2023-07-13,Kerusakan mekanis
+C00610-5,MINE_5,EQ012-5,2023-07-15,Crusher Capacity,500,ton/day,2023-07-17,Alur produksi lancar
+C00611-3,MINE_3,EQ031-3,2023-07-15,Crusher Capacity,500,ton/day,2023-07-18,Perbaikan alat
+C00612-2,MINE_2,EQ029-2,2023-07-15,Excavator Capacity,500,ton/day,2023-07-15,Kerusakan mekanis
+C00613-4,MINE_4,EQ026-4,2023-07-15,Hauling Capacity,500,ton/day,2023-07-16,Jalan rusak
+C00614-1,MINE_1,EQ020-1,2023-07-15,Excavator Capacity,500,ton/day,2023-07-21,Material basah
+C00615-1,MINE_1,EQ030-1,2023-07-22,Excavator Capacity,500,ton/day,2023-07-23,Cuaca kurang mendukung
+C00616-3,MINE_3,EQ046-3,2023-07-22,Hauling Capacity,500,ton/day,2023-07-28,Akses terhambat
+C00617-4,MINE_4,EQ013-4,2023-07-22,Hauling Capacity,500,ton/day,2023-07-26,Kemacetan hauling
+C00618-2,MINE_2,EQ004-2,2023-07-22,Excavator Capacity,500,ton/day,2023-07-24,Material basah
+C00619-5,MINE_5,EQ002-5,2023-07-22,Crusher Capacity,500,ton/day,2023-07-28,Maintenance unit
+C00620-2,MINE_2,EQ040-2,2023-08-01,Excavator Capacity,500,ton/day,2023-08-05,Material basah
+C00621-3,MINE_3,EQ031-3,2023-08-01,Hauling Capacity,500,ton/day,2023-08-07,Jalan rusak
+C00622-5,MINE_5,EQ012-5,2023-08-01,Hauling Capacity,500,ton/day,2023-08-01,Akses terhambat
+C00623-1,MINE_1,EQ047-1,2023-08-01,Hauling Capacity,500,ton/day,2023-08-02,Jalan rusak
+C00624-4,MINE_4,EQ036-4,2023-08-01,Hauling Capacity,500,ton/day,2023-08-04,Akses terhambat
+C00625-2,MINE_2,EQ001-2,2023-08-08,Hauling Capacity,500,ton/day,2023-08-11,Kerusakan mekanis
+C00626-3,MINE_3,EQ039-3,2023-08-08,Hauling Capacity,500,ton/day,2023-08-11,Kemacetan hauling
+C00627-5,MINE_5,EQ012-5,2023-08-08,Excavator Capacity,500,ton/day,2023-08-13,Material basah
+C00628-4,MINE_4,EQ036-4,2023-08-08,Hauling Capacity,500,ton/day,2023-08-11,Maintenance unit
+C00629-1,MINE_1,EQ043-1,2023-08-08,Hauling Capacity,500,ton/day,2023-08-11,Kerusakan mekanis
+C00630-4,MINE_4,EQ026-4,2023-08-15,Crusher Capacity,500,ton/day,2023-08-17,Perbaikan alat
+C00631-3,MINE_3,EQ046-3,2023-08-15,Excavator Capacity,500,ton/day,2023-08-15,Material basah
+C00632-1,MINE_1,EQ050-1,2023-08-15,Crusher Capacity,500,ton/day,2023-08-17,Kerusakan mekanis
+C00633-5,MINE_5,EQ044-5,2023-08-15,Hauling Capacity,500,ton/day,2023-08-16,Jalan rusak
+C00634-2,MINE_2,EQ049-2,2023-08-15,Hauling Capacity,500,ton/day,2023-08-21,Kemacetan hauling
+C00635-4,MINE_4,EQ036-4,2023-08-22,Hauling Capacity,500,ton/day,2023-08-28,Akses terhambat
+C00636-3,MINE_3,EQ021-3,2023-08-22,Hauling Capacity,500,ton/day,2023-08-22,Jalan rusak
+C00637-1,MINE_1,EQ038-1,2023-08-22,Hauling Capacity,500,ton/day,2023-08-24,Akses terhambat
+C00638-5,MINE_5,EQ034-5,2023-08-22,Excavator Capacity,500,ton/day,2023-08-25,Perbaikan alat
+C00639-2,MINE_2,EQ025-2,2023-08-22,Crusher Capacity,500,ton/day,2023-08-28,Maintenance unit
+C00640-2,MINE_2,EQ018-2,2023-09-01,Hauling Capacity,500,ton/day,2023-09-03,Kemacetan hauling
+C00641-3,MINE_3,EQ046-3,2023-09-01,Excavator Capacity,500,ton/day,2023-09-06,Material basah
+C00642-1,MINE_1,EQ038-1,2023-09-01,Hauling Capacity,500,ton/day,2023-09-03,Jalan rusak
+C00643-4,MINE_4,EQ010-4,2023-09-01,Excavator Capacity,500,ton/day,2023-09-04,Cuaca kurang mendukung
+C00644-5,MINE_5,EQ034-5,2023-09-01,Hauling Capacity,500,ton/day,2023-09-02,Jalan rusak
+C00645-5,MINE_5,EQ002-5,2023-09-08,Hauling Capacity,500,ton/day,2023-09-13,Kondisi lapangan kurang optimal
+C00646-1,MINE_1,EQ041-1,2023-09-08,Hauling Capacity,500,ton/day,2023-09-14,Maintenance unit
+C00647-2,MINE_2,EQ048-2,2023-09-08,Excavator Capacity,500,ton/day,2023-09-08,Cuaca kurang mendukung
+C00648-4,MINE_4,EQ036-4,2023-09-08,Hauling Capacity,500,ton/day,2023-09-13,Jalan rusak
+C00649-3,MINE_3,EQ021-3,2023-09-08,Hauling Capacity,500,ton/day,2023-09-13,Akses terhambat
+C00650-4,MINE_4,EQ026-4,2023-09-15,Hauling Capacity,500,ton/day,2023-09-20,Akses terhambat
+C00651-2,MINE_2,EQ048-2,2023-09-15,Excavator Capacity,500,ton/day,2023-09-20,Cuaca kurang mendukung
+C00652-5,MINE_5,EQ012-5,2023-09-15,Excavator Capacity,500,ton/day,2023-09-15,Material basah
+C00653-1,MINE_1,EQ041-1,2023-09-15,Hauling Capacity,500,ton/day,2023-09-21,Kemacetan hauling
+C00654-3,MINE_3,EQ031-3,2023-09-15,Hauling Capacity,500,ton/day,2023-09-20,Akses terhambat
+C00655-3,MINE_3,EQ021-3,2023-09-22,Excavator Capacity,500,ton/day,2023-09-23,Material basah
+C00656-2,MINE_2,EQ004-2,2023-09-22,Excavator Capacity,1259,ton/day,2023-09-26,Alur produksi lancar
+C00657-4,MINE_4,EQ013-4,2023-09-22,Excavator Capacity,500,ton/day,2023-09-22,Curah hujan tinggi
+C00658-5,MINE_5,EQ002-5,2023-09-22,Crusher Capacity,500,ton/day,2023-09-26,Maintenance unit
+C00659-1,MINE_1,EQ033-1,2023-09-22,Excavator Capacity,500,ton/day,2023-09-25,Material basah
+C00660-5,MINE_5,EQ035-5,2023-10-01,Excavator Capacity,500,ton/day,2023-10-02,Cuaca kurang mendukung
+C00661-2,MINE_2,EQ001-2,2023-10-01,Hauling Capacity,500,ton/day,2023-10-03,Akses terhambat
+C00662-4,MINE_4,EQ026-4,2023-10-01,Excavator Capacity,500,ton/day,2023-10-04,Cuaca kurang mendukung
+C00663-1,MINE_1,EQ016-1,2023-10-01,Excavator Capacity,500,ton/day,2023-10-04,Material basah
+C00664-3,MINE_3,EQ031-3,2023-10-01,Excavator Capacity,500,ton/day,2023-10-02,Material basah
+C00665-2,MINE_2,EQ025-2,2023-10-08,Excavator Capacity,500,ton/day,2023-10-13,Cuaca kurang mendukung
+C00666-5,MINE_5,EQ012-5,2023-10-08,Hauling Capacity,500,ton/day,2023-10-12,Akses terhambat
+C00667-4,MINE_4,EQ036-4,2023-10-08,Excavator Capacity,500,ton/day,2023-10-11,Cuaca kurang mendukung
+C00668-1,MINE_1,EQ037-1,2023-10-08,Excavator Capacity,500,ton/day,2023-10-08,Curah hujan tinggi
+C00669-3,MINE_3,EQ031-3,2023-10-08,Excavator Capacity,500,ton/day,2023-10-11,Curah hujan tinggi
+C00670-1,MINE_1,EQ027-1,2023-10-15,Hauling Capacity,500,ton/day,2023-10-15,Jalan rusak
+C00671-5,MINE_5,EQ034-5,2023-10-15,Hauling Capacity,500,ton/day,2023-10-18,Kemacetan hauling
+C00672-4,MINE_4,EQ026-4,2023-10-15,Hauling Capacity,500,ton/day,2023-10-19,Akses terhambat
+C00673-3,MINE_3,EQ031-3,2023-10-15,Excavator Capacity,500,ton/day,2023-10-20,Cuaca kurang mendukung
+C00674-2,MINE_2,EQ024-2,2023-10-15,Excavator Capacity,500,ton/day,2023-10-15,Maintenance unit
+C00675-5,MINE_5,EQ034-5,2023-10-22,Excavator Capacity,500,ton/day,2023-10-28,Kerusakan mekanis
+C00676-4,MINE_4,EQ003-4,2023-10-22,Excavator Capacity,500,ton/day,2023-10-24,Perbaikan alat
+C00677-1,MINE_1,EQ020-1,2023-10-22,Excavator Capacity,500,ton/day,2023-10-22,Curah hujan tinggi
+C00678-2,MINE_2,EQ001-2,2023-10-22,Hauling Capacity,500,ton/day,2023-10-26,Akses terhambat
+C00679-3,MINE_3,EQ021-3,2023-10-22,Hauling Capacity,500,ton/day,2023-10-26,Akses terhambat
+C00680-4,MINE_4,EQ010-4,2023-11-01,Excavator Capacity,1006,ton/day,2023-11-01,Curah hujan tinggi
+C00681-3,MINE_3,EQ046-3,2023-11-01,Excavator Capacity,500,ton/day,2023-11-07,Curah hujan tinggi
+C00682-1,MINE_1,EQ014-1,2023-11-01,Hauling Capacity,500,ton/day,2023-11-02,Jalan rusak
+C00683-2,MINE_2,EQ018-2,2023-11-01,Hauling Capacity,500,ton/day,2023-11-04,Kemacetan hauling
+C00684-5,MINE_5,EQ044-5,2023-11-01,Hauling Capacity,500,ton/day,2023-11-01,Akses terhambat
+C00685-2,MINE_2,EQ019-2,2023-11-08,Excavator Capacity,500,ton/day,2023-11-14,Curah hujan tinggi
+C00686-1,MINE_1,EQ007-1,2023-11-08,Excavator Capacity,500,ton/day,2023-11-09,Material basah
+C00687-4,MINE_4,EQ026-4,2023-11-08,Excavator Capacity,500,ton/day,2023-11-10,Perbaikan alat
+C00688-3,MINE_3,EQ031-3,2023-11-08,Excavator Capacity,500,ton/day,2023-11-11,Kerusakan mekanis
+C00689-5,MINE_5,EQ012-5,2023-11-08,Excavator Capacity,500,ton/day,2023-11-13,Curah hujan tinggi
+C00690-1,MINE_1,EQ014-1,2023-11-15,Hauling Capacity,500,ton/day,2023-11-15,Maintenance unit
+C00691-2,MINE_2,EQ001-2,2023-11-15,Excavator Capacity,500,ton/day,2023-11-21,Curah hujan tinggi
+C00692-3,MINE_3,EQ021-3,2023-11-15,Excavator Capacity,500,ton/day,2023-11-20,Curah hujan tinggi
+C00693-5,MINE_5,EQ012-5,2023-11-15,Crusher Capacity,500,ton/day,2023-11-15,Alur produksi lancar
+C00694-4,MINE_4,EQ010-4,2023-11-15,Hauling Capacity,500,ton/day,2023-11-16,Kemacetan hauling
+C00695-5,MINE_5,EQ002-5,2023-11-22,Excavator Capacity,500,ton/day,2023-11-26,Curah hujan tinggi
+C00696-4,MINE_4,EQ036-4,2023-11-22,Hauling Capacity,500,ton/day,2023-11-24,Perbaikan alat
+C00697-1,MINE_1,EQ027-1,2023-11-22,Excavator Capacity,500,ton/day,2023-11-28,Curah hujan tinggi
+C00698-3,MINE_3,EQ039-3,2023-11-22,Hauling Capacity,500,ton/day,2023-11-24,Jalan rusak
+C00699-2,MINE_2,EQ042-2,2023-11-22,Excavator Capacity,677,ton/day,2023-11-28,Curah hujan tinggi
+C00700-2,MINE_2,EQ024-2,2023-12-01,Excavator Capacity,500,ton/day,2023-12-04,Cuaca kurang mendukung
+C00701-1,MINE_1,EQ038-1,2023-12-01,Hauling Capacity,500,ton/day,2023-12-04,Kemacetan hauling
+C00702-5,MINE_5,EQ044-5,2023-12-01,Hauling Capacity,500,ton/day,2023-12-04,Jalan rusak
+C00703-3,MINE_3,EQ046-3,2023-12-01,Hauling Capacity,500,ton/day,2023-12-06,Kemacetan hauling
+C00704-4,MINE_4,EQ013-4,2023-12-01,Excavator Capacity,500,ton/day,2023-12-02,Curah hujan tinggi
+C00705-2,MINE_2,EQ018-2,2023-12-08,Hauling Capacity,500,ton/day,2023-12-12,Maintenance unit
+C00706-1,MINE_1,EQ022-1,2023-12-08,Hauling Capacity,500,ton/day,2023-12-10,Kondisi lapangan kurang optimal
+C00707-4,MINE_4,EQ013-4,2023-12-08,Hauling Capacity,551,ton/day,2023-12-10,Produksi tertunda
+C00708-5,MINE_5,EQ035-5,2023-12-08,Hauling Capacity,500,ton/day,2023-12-10,Alur produksi lancar
+C00709-3,MINE_3,EQ046-3,2023-12-08,Hauling Capacity,500,ton/day,2023-12-12,Jalan rusak
+C00710-3,MINE_3,EQ031-3,2023-12-15,Excavator Capacity,500,ton/day,2023-12-17,Maintenance unit
+C00711-5,MINE_5,EQ012-5,2023-12-15,Hauling Capacity,500,ton/day,2023-12-19,Maintenance unit
+C00712-4,MINE_4,EQ036-4,2023-12-15,Hauling Capacity,500,ton/day,2023-12-19,Akses terhambat
+C00713-1,MINE_1,EQ027-1,2023-12-15,Hauling Capacity,500,ton/day,2023-12-15,Gangguan operasional
+C00714-2,MINE_2,EQ004-2,2023-12-15,Excavator Capacity,500,ton/day,2023-12-19,Material basah
+C00715-5,MINE_5,EQ012-5,2023-12-22,Crusher Capacity,500,ton/day,2023-12-26,Perbaikan alat
+C00716-1,MINE_1,EQ016-1,2023-12-22,Hauling Capacity,500,ton/day,2023-12-28,Jalan rusak
+C00717-3,MINE_3,EQ021-3,2023-12-22,Hauling Capacity,500,ton/day,2023-12-25,Kemacetan hauling
+C00718-2,MINE_2,EQ042-2,2023-12-22,Hauling Capacity,549,ton/day,2023-12-24,Akses terhambat
+C00719-4,MINE_4,EQ003-4,2023-12-22,Hauling Capacity,500,ton/day,2023-12-26,Kemacetan hauling
+C00720-3,MINE_3,EQ021-3,2024-01-01,Hauling Capacity,500,ton/day,2024-01-02,Gangguan operasional
+C00721-2,MINE_2,EQ001-2,2024-01-01,Excavator Capacity,500,ton/day,2024-01-01,Curah hujan tinggi
+C00722-5,MINE_5,EQ002-5,2024-01-01,Excavator Capacity,500,ton/day,2024-01-03,Cuaca kurang mendukung
+C00723-1,MINE_1,EQ005-1,2024-01-01,Crusher Capacity,500,ton/day,2024-01-04,Kerusakan mekanis
+C00724-4,MINE_4,EQ036-4,2024-01-01,Hauling Capacity,500,ton/day,2024-01-04,Kemacetan hauling
+C00725-4,MINE_4,EQ010-4,2024-01-08,Hauling Capacity,500,ton/day,2024-01-13,Akses terhambat
+C00726-1,MINE_1,EQ038-1,2024-01-08,Hauling Capacity,500,ton/day,2024-01-10,Kemacetan hauling
+C00727-2,MINE_2,EQ004-2,2024-01-08,Hauling Capacity,1075,ton/day,2024-01-11,Alur produksi lancar
+C00728-5,MINE_5,EQ034-5,2024-01-08,Hauling Capacity,500,ton/day,2024-01-14,Kemacetan hauling
+C00729-3,MINE_3,EQ039-3,2024-01-08,Excavator Capacity,500,ton/day,2024-01-09,Cuaca kurang mendukung
+C00730-3,MINE_3,EQ039-3,2024-01-15,Excavator Capacity,500,ton/day,2024-01-16,Cuaca kurang mendukung
+C00731-1,MINE_1,EQ022-1,2024-01-15,Excavator Capacity,500,ton/day,2024-01-18,Cuaca kurang mendukung
+C00732-5,MINE_5,EQ044-5,2024-01-15,Crusher Capacity,500,ton/day,2024-01-18,Maintenance unit
+C00733-2,MINE_2,EQ001-2,2024-01-15,Hauling Capacity,500,ton/day,2024-01-17,Akses terhambat
+C00734-4,MINE_4,EQ003-4,2024-01-15,Hauling Capacity,500,ton/day,2024-01-19,Akses terhambat
+C00735-4,MINE_4,EQ010-4,2024-01-22,Excavator Capacity,922,ton/day,2024-01-27,Produksi tertunda
+C00736-3,MINE_3,EQ009-3,2024-01-22,Excavator Capacity,500,ton/day,2024-01-23,Material basah
+C00737-1,MINE_1,EQ017-1,2024-01-22,Hauling Capacity,500,ton/day,2024-01-22,Jalan rusak
+C00738-2,MINE_2,EQ049-2,2024-01-22,Hauling Capacity,500,ton/day,2024-01-27,Akses terhambat
+C00739-5,MINE_5,EQ012-5,2024-01-22,Hauling Capacity,500,ton/day,2024-01-22,Jalan rusak
+C00740-4,MINE_4,EQ036-4,2024-02-01,Hauling Capacity,500,ton/day,2024-02-01,Kemacetan hauling
+C00741-1,MINE_1,EQ047-1,2024-02-01,Hauling Capacity,500,ton/day,2024-02-05,Kemacetan hauling
+C00742-3,MINE_3,EQ009-3,2024-02-01,Hauling Capacity,500,ton/day,2024-02-07,Akses terhambat
+C00743-2,MINE_2,EQ042-2,2024-02-01,Crusher Capacity,500,ton/day,2024-02-01,Kerusakan mekanis
+C00744-5,MINE_5,EQ012-5,2024-02-01,Excavator Capacity,500,ton/day,2024-02-07,Material basah
+C00745-3,MINE_3,EQ009-3,2024-02-08,Hauling Capacity,500,ton/day,2024-02-13,Kemacetan hauling
+C00746-2,MINE_2,EQ025-2,2024-02-08,Excavator Capacity,500,ton/day,2024-02-12,Maintenance unit
+C00747-4,MINE_4,EQ036-4,2024-02-08,Hauling Capacity,500,ton/day,2024-02-08,Jalan rusak
+C00748-5,MINE_5,EQ012-5,2024-02-08,Excavator Capacity,500,ton/day,2024-02-11,Material basah
+C00749-1,MINE_1,EQ041-1,2024-02-08,Hauling Capacity,500,ton/day,2024-02-14,Kemacetan hauling
+C00750-4,MINE_4,EQ010-4,2024-02-15,Hauling Capacity,500,ton/day,2024-02-20,Kemacetan hauling
+C00751-3,MINE_3,EQ009-3,2024-02-15,Hauling Capacity,500,ton/day,2024-02-19,Jalan rusak
+C00752-2,MINE_2,EQ019-2,2024-02-15,Excavator Capacity,500,ton/day,2024-02-15,Curah hujan tinggi
+C00753-5,MINE_5,EQ012-5,2024-02-15,Hauling Capacity,500,ton/day,2024-02-19,Kemacetan hauling
+C00754-1,MINE_1,EQ030-1,2024-02-15,Excavator Capacity,500,ton/day,2024-02-15,Cuaca kurang mendukung
+C00755-1,MINE_1,EQ020-1,2024-02-22,Excavator Capacity,500,ton/day,2024-02-23,Material basah
+C00756-4,MINE_4,EQ026-4,2024-02-22,Hauling Capacity,500,ton/day,2024-02-27,Perbaikan alat
+C00757-2,MINE_2,EQ025-2,2024-02-22,Excavator Capacity,500,ton/day,2024-02-28,Curah hujan tinggi
+C00758-3,MINE_3,EQ009-3,2024-02-22,Excavator Capacity,500,ton/day,2024-02-24,Curah hujan tinggi
+C00759-5,MINE_5,EQ012-5,2024-02-22,Hauling Capacity,500,ton/day,2024-02-27,Kerusakan mekanis
+C00760-4,MINE_4,EQ026-4,2024-03-01,Hauling Capacity,500,ton/day,2024-03-04,Maintenance unit
+C00761-5,MINE_5,EQ008-5,2024-03-01,Excavator Capacity,500,ton/day,2024-03-02,Curah hujan tinggi
+C00762-2,MINE_2,EQ019-2,2024-03-01,Hauling Capacity,500,ton/day,2024-03-01,Perbaikan alat
+C00763-3,MINE_3,EQ031-3,2024-03-01,Hauling Capacity,500,ton/day,2024-03-06,Akses terhambat
+C00764-1,MINE_1,EQ016-1,2024-03-01,Hauling Capacity,500,ton/day,2024-03-04,Akses terhambat
+C00765-4,MINE_4,EQ026-4,2024-03-08,Hauling Capacity,500,ton/day,2024-03-08,Kemacetan hauling
+C00766-1,MINE_1,EQ038-1,2024-03-08,Hauling Capacity,500,ton/day,2024-03-10,Maintenance unit
+C00767-5,MINE_5,EQ012-5,2024-03-08,Crusher Capacity,500,ton/day,2024-03-14,Perbaikan alat
+C00768-3,MINE_3,EQ031-3,2024-03-08,Excavator Capacity,500,ton/day,2024-03-08,Cuaca kurang mendukung
+C00769-2,MINE_2,EQ028-2,2024-03-08,Excavator Capacity,500,ton/day,2024-03-12,Cuaca kurang mendukung
+C00770-4,MINE_4,EQ013-4,2024-03-15,Excavator Capacity,500,ton/day,2024-03-18,Curah hujan tinggi
+C00771-1,MINE_1,EQ011-1,2024-03-15,Hauling Capacity,500,ton/day,2024-03-20,Akses terhambat
+C00772-2,MINE_2,EQ024-2,2024-03-15,Hauling Capacity,500,ton/day,2024-03-18,Kemacetan hauling
+C00773-5,MINE_5,EQ034-5,2024-03-15,Excavator Capacity,500,ton/day,2024-03-18,Kondisi lapangan kurang optimal
+C00774-3,MINE_3,EQ021-3,2024-03-15,Crusher Capacity,500,ton/day,2024-03-20,Perbaikan alat
+C00775-1,MINE_1,EQ023-1,2024-03-22,Excavator Capacity,500,ton/day,2024-03-26,Maintenance unit
+C00776-2,MINE_2,EQ028-2,2024-03-22,Excavator Capacity,500,ton/day,2024-03-23,Cuaca kurang mendukung
+C00777-5,MINE_5,EQ012-5,2024-03-22,Hauling Capacity,500,ton/day,2024-03-27,Kemacetan hauling
+C00778-3,MINE_3,EQ021-3,2024-03-22,Excavator Capacity,500,ton/day,2024-03-26,Kerusakan mekanis
+C00779-4,MINE_4,EQ003-4,2024-03-22,Hauling Capacity,500,ton/day,2024-03-25,Kemacetan hauling
+C00780-3,MINE_3,EQ009-3,2024-04-01,Excavator Capacity,500,ton/day,2024-04-04,Curah hujan tinggi
+C00781-1,MINE_1,EQ043-1,2024-04-01,Excavator Capacity,500,ton/day,2024-04-04,Curah hujan tinggi
+C00782-4,MINE_4,EQ026-4,2024-04-01,Hauling Capacity,500,ton/day,2024-04-06,Akses terhambat
+C00783-2,MINE_2,EQ004-2,2024-04-01,Excavator Capacity,500,ton/day,2024-04-02,Maintenance unit
+C00784-5,MINE_5,EQ044-5,2024-04-01,Hauling Capacity,500,ton/day,2024-04-06,Jalan rusak
+C00785-4,MINE_4,EQ003-4,2024-04-08,Excavator Capacity,536,ton/day,2024-04-08,Cuaca kurang mendukung
+C00786-5,MINE_5,EQ034-5,2024-04-08,Excavator Capacity,500,ton/day,2024-04-11,Material basah
+C00787-2,MINE_2,EQ018-2,2024-04-08,Hauling Capacity,500,ton/day,2024-04-11,Jalan rusak
+C00788-3,MINE_3,EQ039-3,2024-04-08,Hauling Capacity,500,ton/day,2024-04-11,Kemacetan hauling
+C00789-1,MINE_1,EQ030-1,2024-04-08,Hauling Capacity,500,ton/day,2024-04-11,Jalan rusak
+C00790-1,MINE_1,EQ020-1,2024-04-15,Hauling Capacity,500,ton/day,2024-04-21,Kemacetan hauling
+C00791-3,MINE_3,EQ031-3,2024-04-15,Hauling Capacity,500,ton/day,2024-04-19,Kerusakan mekanis
+C00792-5,MINE_5,EQ044-5,2024-04-15,Hauling Capacity,500,ton/day,2024-04-18,Kemacetan hauling
+C00793-2,MINE_2,EQ040-2,2024-04-15,Hauling Capacity,500,ton/day,2024-04-19,Kemacetan hauling
+C00794-4,MINE_4,EQ026-4,2024-04-15,Hauling Capacity,500,ton/day,2024-04-17,Kemacetan hauling
+C00795-2,MINE_2,EQ025-2,2024-04-22,Hauling Capacity,500,ton/day,2024-04-28,Akses terhambat
+C00796-3,MINE_3,EQ009-3,2024-04-22,Excavator Capacity,500,ton/day,2024-04-26,Kerusakan mekanis
+C00797-4,MINE_4,EQ026-4,2024-04-22,Hauling Capacity,500,ton/day,2024-04-28,Akses terhambat
+C00798-1,MINE_1,EQ022-1,2024-04-22,Hauling Capacity,500,ton/day,2024-04-22,Jalan rusak
+C00799-5,MINE_5,EQ012-5,2024-04-22,Hauling Capacity,500,ton/day,2024-04-24,Jalan rusak
+C00800-2,MINE_2,EQ028-2,2024-05-01,Hauling Capacity,500,ton/day,2024-05-02,Kondisi lapangan kurang optimal
+C00801-3,MINE_3,EQ021-3,2024-05-01,Hauling Capacity,500,ton/day,2024-05-01,Jalan rusak
+C00802-5,MINE_5,EQ035-5,2024-05-01,Excavator Capacity,500,ton/day,2024-05-05,Maintenance unit
+C00803-1,MINE_1,EQ045-1,2024-05-01,Excavator Capacity,500,ton/day,2024-05-04,Cuaca kurang mendukung
+C00804-4,MINE_4,EQ003-4,2024-05-01,Excavator Capacity,500,ton/day,2024-05-04,Cuaca kurang mendukung
+C00805-4,MINE_4,EQ013-4,2024-05-08,Hauling Capacity,500,ton/day,2024-05-14,Akses terhambat
+C00806-5,MINE_5,EQ034-5,2024-05-08,Hauling Capacity,500,ton/day,2024-05-08,Jalan rusak
+C00807-3,MINE_3,EQ039-3,2024-05-08,Excavator Capacity,500,ton/day,2024-05-08,Perbaikan alat
+C00808-1,MINE_1,EQ032-1,2024-05-08,Crusher Capacity,500,ton/day,2024-05-09,Gangguan operasional
+C00809-2,MINE_2,EQ040-2,2024-05-08,Excavator Capacity,500,ton/day,2024-05-13,Material basah
+C00810-4,MINE_4,EQ036-4,2024-05-15,Hauling Capacity,500,ton/day,2024-05-19,Perbaikan alat
+C00811-5,MINE_5,EQ044-5,2024-05-15,Excavator Capacity,500,ton/day,2024-05-19,Material basah
+C00812-1,MINE_1,EQ020-1,2024-05-15,Excavator Capacity,500,ton/day,2024-05-15,Curah hujan tinggi
+C00813-3,MINE_3,EQ031-3,2024-05-15,Excavator Capacity,500,ton/day,2024-05-18,Kondisi lapangan kurang optimal
+C00814-2,MINE_2,EQ019-2,2024-05-15,Excavator Capacity,500,ton/day,2024-05-18,Cuaca kurang mendukung
+C00815-5,MINE_5,EQ034-5,2024-05-22,Crusher Capacity,500,ton/day,2024-05-25,Gangguan operasional
+C00816-3,MINE_3,EQ021-3,2024-05-22,Hauling Capacity,500,ton/day,2024-05-28,Kemacetan hauling
+C00817-2,MINE_2,EQ019-2,2024-05-22,Hauling Capacity,500,ton/day,2024-05-27,Jalan rusak
+C00818-4,MINE_4,EQ013-4,2024-05-22,Hauling Capacity,500,ton/day,2024-05-26,Kemacetan hauling
+C00819-1,MINE_1,EQ047-1,2024-05-22,Crusher Capacity,500,ton/day,2024-05-23,Perbaikan alat
+C00820-2,MINE_2,EQ001-2,2024-06-01,Excavator Capacity,500,ton/day,2024-06-04,Perbaikan alat
+C00821-1,MINE_1,EQ005-1,2024-06-01,Hauling Capacity,500,ton/day,2024-06-01,Kemacetan hauling
+C00822-5,MINE_5,EQ034-5,2024-06-01,Hauling Capacity,500,ton/day,2024-06-05,Jalan rusak
+C00823-4,MINE_4,EQ036-4,2024-06-01,Excavator Capacity,500,ton/day,2024-06-04,Material basah
+C00824-3,MINE_3,EQ031-3,2024-06-01,Hauling Capacity,500,ton/day,2024-06-07,Jalan rusak
+C00825-1,MINE_1,EQ015-1,2024-06-08,Excavator Capacity,500,ton/day,2024-06-14,Material basah
+C00826-5,MINE_5,EQ034-5,2024-06-08,Excavator Capacity,500,ton/day,2024-06-10,Curah hujan tinggi
+C00827-4,MINE_4,EQ010-4,2024-06-08,Hauling Capacity,500,ton/day,2024-06-12,Akses terhambat
+C00828-2,MINE_2,EQ042-2,2024-06-08,Hauling Capacity,500,ton/day,2024-06-10,Kemacetan hauling
+C00829-3,MINE_3,EQ031-3,2024-06-08,Excavator Capacity,500,ton/day,2024-06-14,Gangguan operasional
+C00830-5,MINE_5,EQ008-5,2024-06-15,Hauling Capacity,500,ton/day,2024-06-20,Akses terhambat
+C00831-1,MINE_1,EQ045-1,2024-06-15,Excavator Capacity,500,ton/day,2024-06-20,Perbaikan alat
+C00832-2,MINE_2,EQ028-2,2024-06-15,Excavator Capacity,500,ton/day,2024-06-18,Curah hujan tinggi
+C00833-4,MINE_4,EQ013-4,2024-06-15,Excavator Capacity,500,ton/day,2024-06-16,Curah hujan tinggi
+C00834-3,MINE_3,EQ039-3,2024-06-15,Hauling Capacity,500,ton/day,2024-06-16,Kerusakan mekanis
+C00835-5,MINE_5,EQ044-5,2024-06-22,Excavator Capacity,500,ton/day,2024-06-22,Perbaikan alat
+C00836-2,MINE_2,EQ042-2,2024-06-22,Hauling Capacity,500,ton/day,2024-06-22,Akses terhambat
+C00837-3,MINE_3,EQ021-3,2024-06-22,Excavator Capacity,500,ton/day,2024-06-26,Kondisi lapangan kurang optimal
+C00838-4,MINE_4,EQ026-4,2024-06-22,Excavator Capacity,500,ton/day,2024-06-26,Cuaca kurang mendukung
+C00839-1,MINE_1,EQ037-1,2024-06-22,Hauling Capacity,500,ton/day,2024-06-23,Kemacetan hauling
+C00840-3,MINE_3,EQ009-3,2024-07-01,Excavator Capacity,500,ton/day,2024-07-02,Kerusakan mekanis
+C00841-4,MINE_4,EQ026-4,2024-07-01,Hauling Capacity,500,ton/day,2024-07-01,Maintenance unit
+C00842-2,MINE_2,EQ029-2,2024-07-01,Hauling Capacity,500,ton/day,2024-07-04,Jalan rusak
+C00843-5,MINE_5,EQ012-5,2024-07-01,Excavator Capacity,500,ton/day,2024-07-07,Material basah
+C00844-1,MINE_1,EQ006-1,2024-07-01,Excavator Capacity,500,ton/day,2024-07-07,Kerusakan mekanis
+C00845-5,MINE_5,EQ002-5,2024-07-08,Hauling Capacity,500,ton/day,2024-07-11,Jalan rusak
+C00846-2,MINE_2,EQ025-2,2024-07-08,Hauling Capacity,500,ton/day,2024-07-12,Kemacetan hauling
+C00847-3,MINE_3,EQ021-3,2024-07-08,Hauling Capacity,500,ton/day,2024-07-14,Akses terhambat
+C00848-4,MINE_4,EQ013-4,2024-07-08,Hauling Capacity,500,ton/day,2024-07-12,Akses terhambat
+C00849-1,MINE_1,EQ020-1,2024-07-08,Excavator Capacity,500,ton/day,2024-07-08,Curah hujan tinggi
+C00850-1,MINE_1,EQ043-1,2024-07-15,Crusher Capacity,500,ton/day,2024-07-19,Gangguan operasional
+C00851-2,MINE_2,EQ028-2,2024-07-15,Excavator Capacity,500,ton/day,2024-07-21,Material basah
+C00852-3,MINE_3,EQ039-3,2024-07-15,Hauling Capacity,500,ton/day,2024-07-21,Kemacetan hauling
+C00853-4,MINE_4,EQ010-4,2024-07-15,Excavator Capacity,500,ton/day,2024-07-21,Curah hujan tinggi
+C00854-5,MINE_5,EQ035-5,2024-07-15,Excavator Capacity,500,ton/day,2024-07-15,Curah hujan tinggi
+C00855-3,MINE_3,EQ031-3,2024-07-22,Hauling Capacity,500,ton/day,2024-07-27,Akses terhambat
+C00856-1,MINE_1,EQ022-1,2024-07-22,Crusher Capacity,500,ton/day,2024-07-27,Operasi normal
+C00857-2,MINE_2,EQ019-2,2024-07-22,Hauling Capacity,500,ton/day,2024-07-24,Akses terhambat
+C00858-4,MINE_4,EQ026-4,2024-07-22,Excavator Capacity,500,ton/day,2024-07-23,Cuaca kurang mendukung
+C00859-5,MINE_5,EQ012-5,2024-07-22,Excavator Capacity,500,ton/day,2024-07-27,Perbaikan alat
+C00860-5,MINE_5,EQ035-5,2024-08-01,Hauling Capacity,500,ton/day,2024-08-01,Kemacetan hauling
+C00861-2,MINE_2,EQ040-2,2024-08-01,Hauling Capacity,500,ton/day,2024-08-01,Akses terhambat
+C00862-4,MINE_4,EQ026-4,2024-08-01,Excavator Capacity,500,ton/day,2024-08-01,Curah hujan tinggi
+C00863-3,MINE_3,EQ031-3,2024-08-01,Excavator Capacity,500,ton/day,2024-08-07,Cuaca kurang mendukung
+C00864-1,MINE_1,EQ037-1,2024-08-01,Excavator Capacity,500,ton/day,2024-08-02,Cuaca kurang mendukung
+C00865-3,MINE_3,EQ039-3,2024-08-08,Excavator Capacity,500,ton/day,2024-08-09,Curah hujan tinggi
+C00866-4,MINE_4,EQ013-4,2024-08-08,Excavator Capacity,500,ton/day,2024-08-13,Perbaikan alat
+C00867-5,MINE_5,EQ008-5,2024-08-08,Excavator Capacity,500,ton/day,2024-08-14,Curah hujan tinggi
+C00868-1,MINE_1,EQ011-1,2024-08-08,Crusher Capacity,500,ton/day,2024-08-08,Maintenance unit
+C00869-2,MINE_2,EQ018-2,2024-08-08,Hauling Capacity,500,ton/day,2024-08-08,Jalan rusak
+C00870-2,MINE_2,EQ024-2,2024-08-15,Hauling Capacity,500,ton/day,2024-08-16,Jalan rusak
+C00871-3,MINE_3,EQ039-3,2024-08-15,Excavator Capacity,500,ton/day,2024-08-18,Cuaca kurang mendukung
+C00872-1,MINE_1,EQ050-1,2024-08-15,Excavator Capacity,500,ton/day,2024-08-15,Material basah
+C00873-4,MINE_4,EQ036-4,2024-08-15,Excavator Capacity,500,ton/day,2024-08-15,Curah hujan tinggi
+C00874-5,MINE_5,EQ044-5,2024-08-15,Hauling Capacity,500,ton/day,2024-08-20,Akses terhambat
+C00875-3,MINE_3,EQ046-3,2024-08-22,Excavator Capacity,500,ton/day,2024-08-24,Cuaca kurang mendukung
+C00876-5,MINE_5,EQ008-5,2024-08-22,Crusher Capacity,500,ton/day,2024-08-23,Kerusakan mekanis
+C00877-1,MINE_1,EQ030-1,2024-08-22,Crusher Capacity,500,ton/day,2024-08-27,Kerusakan mekanis
+C00878-4,MINE_4,EQ010-4,2024-08-22,Excavator Capacity,500,ton/day,2024-08-24,Cuaca kurang mendukung
+C00879-2,MINE_2,EQ042-2,2024-08-22,Excavator Capacity,500,ton/day,2024-08-22,Curah hujan tinggi
+C00880-2,MINE_2,EQ004-2,2024-09-01,Hauling Capacity,500,ton/day,2024-09-03,Akses terhambat
+C00881-1,MINE_1,EQ015-1,2024-09-01,Hauling Capacity,500,ton/day,2024-09-04,Operasi normal
+C00882-3,MINE_3,EQ021-3,2024-09-01,Excavator Capacity,500,ton/day,2024-09-01,Cuaca kurang mendukung
+C00883-4,MINE_4,EQ003-4,2024-09-01,Hauling Capacity,500,ton/day,2024-09-06,Kemacetan hauling
+C00884-5,MINE_5,EQ044-5,2024-09-01,Hauling Capacity,500,ton/day,2024-09-07,Kemacetan hauling
+C00885-3,MINE_3,EQ009-3,2024-09-08,Excavator Capacity,500,ton/day,2024-09-14,Kerusakan mekanis
+C00886-4,MINE_4,EQ003-4,2024-09-08,Hauling Capacity,500,ton/day,2024-09-12,Jalan rusak
+C00887-1,MINE_1,EQ027-1,2024-09-08,Hauling Capacity,500,ton/day,2024-09-14,Jalan rusak
+C00888-2,MINE_2,EQ001-2,2024-09-08,Excavator Capacity,500,ton/day,2024-09-13,Material basah
+C00889-5,MINE_5,EQ034-5,2024-09-08,Excavator Capacity,500,ton/day,2024-09-12,Alur produksi lancar
+C00890-1,MINE_1,EQ050-1,2024-09-15,Excavator Capacity,500,ton/day,2024-09-18,Produksi tertunda
+C00891-5,MINE_5,EQ012-5,2024-09-15,Excavator Capacity,500,ton/day,2024-09-17,Cuaca kurang mendukung
+C00892-4,MINE_4,EQ010-4,2024-09-15,Excavator Capacity,500,ton/day,2024-09-16,Cuaca kurang mendukung
+C00893-2,MINE_2,EQ024-2,2024-09-15,Hauling Capacity,500,ton/day,2024-09-16,Jalan rusak
+C00894-3,MINE_3,EQ046-3,2024-09-15,Excavator Capacity,500,ton/day,2024-09-21,Curah hujan tinggi
+C00895-5,MINE_5,EQ034-5,2024-09-22,Crusher Capacity,500,ton/day,2024-09-25,Kondisi lapangan kurang optimal
+C00896-4,MINE_4,EQ026-4,2024-09-22,Hauling Capacity,500,ton/day,2024-09-23,Akses terhambat
+C00897-3,MINE_3,EQ039-3,2024-09-22,Excavator Capacity,500,ton/day,2024-09-23,Cuaca kurang mendukung
+C00898-2,MINE_2,EQ040-2,2024-09-22,Excavator Capacity,500,ton/day,2024-09-22,Material basah
+C00899-1,MINE_1,EQ045-1,2024-09-22,Excavator Capacity,500,ton/day,2024-09-26,Material basah
+C00900-1,MINE_1,EQ020-1,2024-10-01,Hauling Capacity,500,ton/day,2024-10-02,Akses terhambat
+C00901-5,MINE_5,EQ034-5,2024-10-01,Excavator Capacity,500,ton/day,2024-10-05,Cuaca kurang mendukung
+C00902-2,MINE_2,EQ040-2,2024-10-01,Hauling Capacity,500,ton/day,2024-10-06,Jalan rusak
+C00903-3,MINE_3,EQ046-3,2024-10-01,Excavator Capacity,500,ton/day,2024-10-05,Curah hujan tinggi
+C00904-4,MINE_4,EQ026-4,2024-10-01,Excavator Capacity,500,ton/day,2024-10-01,Cuaca kurang mendukung
+C00905-5,MINE_5,EQ002-5,2024-10-08,Hauling Capacity,500,ton/day,2024-10-09,Jalan rusak
+C00906-1,MINE_1,EQ030-1,2024-10-08,Excavator Capacity,500,ton/day,2024-10-08,Material basah
+C00907-4,MINE_4,EQ010-4,2024-10-08,Excavator Capacity,540,ton/day,2024-10-10,Material basah
+C00908-3,MINE_3,EQ046-3,2024-10-08,Excavator Capacity,500,ton/day,2024-10-14,Kerusakan mekanis
+C00909-2,MINE_2,EQ029-2,2024-10-08,Crusher Capacity,500,ton/day,2024-10-10,Perbaikan alat
+C00910-3,MINE_3,EQ009-3,2024-10-15,Excavator Capacity,500,ton/day,2024-10-15,Curah hujan tinggi
+C00911-5,MINE_5,EQ034-5,2024-10-15,Hauling Capacity,500,ton/day,2024-10-15,Kemacetan hauling
+C00912-4,MINE_4,EQ036-4,2024-10-15,Crusher Capacity,500,ton/day,2024-10-21,Kerusakan mekanis
+C00913-2,MINE_2,EQ049-2,2024-10-15,Hauling Capacity,500,ton/day,2024-10-16,Kemacetan hauling
+C00914-1,MINE_1,EQ030-1,2024-10-15,Hauling Capacity,500,ton/day,2024-10-20,Kemacetan hauling
+C00915-5,MINE_5,EQ035-5,2024-10-22,Excavator Capacity,500,ton/day,2024-10-27,Material basah
+C00916-2,MINE_2,EQ040-2,2024-10-22,Hauling Capacity,605,ton/day,2024-10-24,Kerusakan mekanis
+C00917-4,MINE_4,EQ013-4,2024-10-22,Excavator Capacity,500,ton/day,2024-10-24,Material basah
+C00918-1,MINE_1,EQ016-1,2024-10-22,Excavator Capacity,500,ton/day,2024-10-27,Cuaca kurang mendukung
+C00919-3,MINE_3,EQ009-3,2024-10-22,Hauling Capacity,500,ton/day,2024-10-22,Akses terhambat
+C00920-5,MINE_5,EQ002-5,2024-11-01,Hauling Capacity,500,ton/day,2024-11-01,Kemacetan hauling
+C00921-1,MINE_1,EQ033-1,2024-11-01,Excavator Capacity,500,ton/day,2024-11-02,Maintenance unit
+C00922-4,MINE_4,EQ036-4,2024-11-01,Excavator Capacity,500,ton/day,2024-11-03,Perbaikan alat
+C00923-2,MINE_2,EQ019-2,2024-11-01,Excavator Capacity,500,ton/day,2024-11-04,Material basah
+C00924-3,MINE_3,EQ021-3,2024-11-01,Hauling Capacity,500,ton/day,2024-11-02,Jalan rusak
+C00925-3,MINE_3,EQ046-3,2024-11-08,Excavator Capacity,500,ton/day,2024-11-08,Material basah
+C00926-2,MINE_2,EQ029-2,2024-11-08,Hauling Capacity,500,ton/day,2024-11-12,Kemacetan hauling
+C00927-5,MINE_5,EQ035-5,2024-11-08,Excavator Capacity,500,ton/day,2024-11-08,Cuaca kurang mendukung
+C00928-4,MINE_4,EQ026-4,2024-11-08,Hauling Capacity,500,ton/day,2024-11-08,Maintenance unit
+C00929-1,MINE_1,EQ033-1,2024-11-08,Excavator Capacity,500,ton/day,2024-11-08,Maintenance unit
+C00930-4,MINE_4,EQ026-4,2024-11-15,Hauling Capacity,500,ton/day,2024-11-17,Kemacetan hauling
+C00931-3,MINE_3,EQ021-3,2024-11-15,Crusher Capacity,500,ton/day,2024-11-15,Maintenance unit
+C00932-1,MINE_1,EQ027-1,2024-11-15,Hauling Capacity,500,ton/day,2024-11-21,Jalan rusak
+C00933-5,MINE_5,EQ034-5,2024-11-15,Hauling Capacity,500,ton/day,2024-11-18,Jalan rusak
+C00934-2,MINE_2,EQ029-2,2024-11-15,Excavator Capacity,500,ton/day,2024-11-19,Kerusakan mekanis
+C00935-5,MINE_5,EQ012-5,2024-11-22,Hauling Capacity,500,ton/day,2024-11-23,Jalan rusak
+C00936-3,MINE_3,EQ021-3,2024-11-22,Excavator Capacity,500,ton/day,2024-11-22,Maintenance unit
+C00937-2,MINE_2,EQ019-2,2024-11-22,Hauling Capacity,500,ton/day,2024-11-27,Kemacetan hauling
+C00938-4,MINE_4,EQ003-4,2024-11-22,Excavator Capacity,716,ton/day,2024-11-22,Cuaca kurang mendukung
+C00939-1,MINE_1,EQ043-1,2024-11-22,Hauling Capacity,500,ton/day,2024-11-22,Jalan rusak
+C00940-1,MINE_1,EQ023-1,2024-12-01,Hauling Capacity,500,ton/day,2024-12-05,Kemacetan hauling
+C00941-2,MINE_2,EQ024-2,2024-12-01,Excavator Capacity,500,ton/day,2024-12-07,Cuaca kurang mendukung
+C00942-5,MINE_5,EQ002-5,2024-12-01,Excavator Capacity,500,ton/day,2024-12-02,Curah hujan tinggi
+C00943-3,MINE_3,EQ009-3,2024-12-01,Excavator Capacity,500,ton/day,2024-12-06,Material basah
+C00944-4,MINE_4,EQ010-4,2024-12-01,Excavator Capacity,500,ton/day,2024-12-03,Material basah
+C00945-5,MINE_5,EQ044-5,2024-12-08,Excavator Capacity,500,ton/day,2024-12-09,Material basah
+C00946-4,MINE_4,EQ013-4,2024-12-08,Excavator Capacity,500,ton/day,2024-12-08,Material basah
+C00947-3,MINE_3,EQ046-3,2024-12-08,Hauling Capacity,500,ton/day,2024-12-14,Kemacetan hauling
+C00948-1,MINE_1,EQ037-1,2024-12-08,Hauling Capacity,500,ton/day,2024-12-14,Jalan rusak
+C00949-2,MINE_2,EQ024-2,2024-12-08,Excavator Capacity,500,ton/day,2024-12-12,Cuaca kurang mendukung
+C00950-5,MINE_5,EQ008-5,2024-12-15,Excavator Capacity,500,ton/day,2024-12-17,Curah hujan tinggi
+C00951-4,MINE_4,EQ010-4,2024-12-15,Excavator Capacity,500,ton/day,2024-12-15,Material basah
+C00952-1,MINE_1,EQ030-1,2024-12-15,Hauling Capacity,500,ton/day,2024-12-20,Akses terhambat
+C00953-3,MINE_3,EQ031-3,2024-12-15,Excavator Capacity,500,ton/day,2024-12-19,Cuaca kurang mendukung
+C00954-2,MINE_2,EQ042-2,2024-12-15,Excavator Capacity,500,ton/day,2024-12-19,Curah hujan tinggi
+C00955-3,MINE_3,EQ009-3,2024-12-22,Excavator Capacity,500,ton/day,2024-12-28,Curah hujan tinggi
+C00956-1,MINE_1,EQ047-1,2024-12-22,Hauling Capacity,500,ton/day,2024-12-28,Kemacetan hauling
+C00957-2,MINE_2,EQ028-2,2024-12-22,Crusher Capacity,500,ton/day,2024-12-27,Maintenance unit
+C00958-4,MINE_4,EQ010-4,2024-12-22,Excavator Capacity,500,ton/day,2024-12-28,Kerusakan mekanis
+C00959-5,MINE_5,EQ002-5,2024-12-22,Crusher Capacity,500,ton/day,2024-12-27,Maintenance unit
+C00960-1,MINE_1,EQ050-1,2025-01-01,Excavator Capacity,500,ton/day,2025-01-05,Curah hujan tinggi
+C00961-4,MINE_4,EQ003-4,2025-01-01,Excavator Capacity,500,ton/day,2025-01-06,Kerusakan mekanis
+C00962-2,MINE_2,EQ048-2,2025-01-01,Hauling Capacity,500,ton/day,2025-01-02,Kerusakan mekanis
+C00963-3,MINE_3,EQ009-3,2025-01-01,Excavator Capacity,500,ton/day,2025-01-05,Cuaca kurang mendukung
+C00964-5,MINE_5,EQ002-5,2025-01-01,Excavator Capacity,500,ton/day,2025-01-03,Material basah
+C00965-5,MINE_5,EQ034-5,2025-01-08,Hauling Capacity,500,ton/day,2025-01-13,Jalan rusak
+C00966-1,MINE_1,EQ043-1,2025-01-08,Hauling Capacity,500,ton/day,2025-01-11,Kemacetan hauling
+C00967-4,MINE_4,EQ010-4,2025-01-08,Excavator Capacity,604,ton/day,2025-01-09,Material basah
+C00968-3,MINE_3,EQ046-3,2025-01-08,Excavator Capacity,500,ton/day,2025-01-10,Curah hujan tinggi
+C00969-2,MINE_2,EQ001-2,2025-01-08,Hauling Capacity,500,ton/day,2025-01-13,Kemacetan hauling
+C00970-4,MINE_4,EQ010-4,2025-01-15,Excavator Capacity,500,ton/day,2025-01-20,Cuaca kurang mendukung
+C00971-2,MINE_2,EQ004-2,2025-01-15,Hauling Capacity,500,ton/day,2025-01-16,Kemacetan hauling
+C00972-1,MINE_1,EQ038-1,2025-01-15,Hauling Capacity,500,ton/day,2025-01-17,Jalan rusak
+C00973-3,MINE_3,EQ009-3,2025-01-15,Excavator Capacity,500,ton/day,2025-01-18,Kerusakan mekanis
+C00974-5,MINE_5,EQ034-5,2025-01-15,Hauling Capacity,500,ton/day,2025-01-18,Akses terhambat
+C00975-1,MINE_1,EQ043-1,2025-01-22,Hauling Capacity,500,ton/day,2025-01-27,Maintenance unit
+C00976-3,MINE_3,EQ009-3,2025-01-22,Hauling Capacity,500,ton/day,2025-01-26,Kerusakan mekanis
+C00977-4,MINE_4,EQ036-4,2025-01-22,Hauling Capacity,500,ton/day,2025-01-28,Kemacetan hauling
+C00978-2,MINE_2,EQ025-2,2025-01-22,Excavator Capacity,500,ton/day,2025-01-26,Material basah
+C00979-5,MINE_5,EQ012-5,2025-01-22,Hauling Capacity,500,ton/day,2025-01-24,Kemacetan hauling
+C00980-3,MINE_3,EQ039-3,2025-02-01,Excavator Capacity,500,ton/day,2025-02-05,Material basah
+C00981-5,MINE_5,EQ044-5,2025-02-01,Excavator Capacity,500,ton/day,2025-02-05,Material basah
+C00982-4,MINE_4,EQ003-4,2025-02-01,Excavator Capacity,500,ton/day,2025-02-01,Cuaca kurang mendukung
+C00983-2,MINE_2,EQ049-2,2025-02-01,Hauling Capacity,500,ton/day,2025-02-06,Jalan rusak
+C00984-1,MINE_1,EQ015-1,2025-02-01,Crusher Capacity,500,ton/day,2025-02-02,Maintenance unit
+C00985-1,MINE_1,EQ020-1,2025-02-08,Excavator Capacity,500,ton/day,2025-02-14,Material basah
+C00986-4,MINE_4,EQ003-4,2025-02-08,Excavator Capacity,608,ton/day,2025-02-13,Material basah
+C00987-2,MINE_2,EQ040-2,2025-02-08,Excavator Capacity,500,ton/day,2025-02-13,Cuaca kurang mendukung
+C00988-5,MINE_5,EQ012-5,2025-02-08,Hauling Capacity,500,ton/day,2025-02-09,Akses terhambat
+C00989-3,MINE_3,EQ009-3,2025-02-08,Hauling Capacity,500,ton/day,2025-02-13,Kemacetan hauling
+C00990-4,MINE_4,EQ013-4,2025-02-15,Hauling Capacity,500,ton/day,2025-02-18,Kemacetan hauling
+C00991-2,MINE_2,EQ048-2,2025-02-15,Excavator Capacity,500,ton/day,2025-02-19,Material basah
+C00992-3,MINE_3,EQ046-3,2025-02-15,Excavator Capacity,500,ton/day,2025-02-19,Curah hujan tinggi
+C00993-5,MINE_5,EQ008-5,2025-02-15,Hauling Capacity,500,ton/day,2025-02-17,Akses terhambat
+C00994-1,MINE_1,EQ015-1,2025-02-15,Hauling Capacity,500,ton/day,2025-02-15,Perbaikan alat
+C00995-4,MINE_4,EQ010-4,2025-02-22,Crusher Capacity,500,ton/day,2025-02-26,Kerusakan mekanis
+C00996-5,MINE_5,EQ008-5,2025-02-22,Excavator Capacity,500,ton/day,2025-02-23,Material basah
+C00997-3,MINE_3,EQ046-3,2025-02-22,Excavator Capacity,500,ton/day,2025-02-27,Curah hujan tinggi
+C00998-1,MINE_1,EQ030-1,2025-02-22,Hauling Capacity,500,ton/day,2025-02-26,Kemacetan hauling
+C00999-2,MINE_2,EQ004-2,2025-02-22,Excavator Capacity,527,ton/day,2025-02-24,Material basah
+C01000-1,MINE_1,EQ017-1,2025-03-01,Crusher Capacity,500,ton/day,2025-03-05,Gangguan operasional
+C01001-5,MINE_5,EQ012-5,2025-03-01,Crusher Capacity,500,ton/day,2025-03-06,Operasi normal
+C01002-3,MINE_3,EQ046-3,2025-03-01,Excavator Capacity,500,ton/day,2025-03-03,Curah hujan tinggi
+C01003-4,MINE_4,EQ010-4,2025-03-01,Hauling Capacity,500,ton/day,2025-03-01,Jalan rusak
+C01004-2,MINE_2,EQ004-2,2025-03-01,Crusher Capacity,500,ton/day,2025-03-02,Kerusakan mekanis
+C01005-1,MINE_1,EQ017-1,2025-03-08,Excavator Capacity,500,ton/day,2025-03-12,Curah hujan tinggi
+C01006-5,MINE_5,EQ008-5,2025-03-08,Excavator Capacity,500,ton/day,2025-03-12,Curah hujan tinggi
+C01007-4,MINE_4,EQ003-4,2025-03-08,Crusher Capacity,500,ton/day,2025-03-10,Maintenance unit
+C01008-3,MINE_3,EQ039-3,2025-03-08,Excavator Capacity,500,ton/day,2025-03-10,Cuaca kurang mendukung
+C01009-2,MINE_2,EQ004-2,2025-03-08,Crusher Capacity,500,ton/day,2025-03-10,Kerusakan mekanis
+C01010-5,MINE_5,EQ034-5,2025-03-15,Excavator Capacity,500,ton/day,2025-03-18,Material basah
+C01011-4,MINE_4,EQ010-4,2025-03-15,Hauling Capacity,500,ton/day,2025-03-20,Maintenance unit
+C01012-2,MINE_2,EQ024-2,2025-03-15,Hauling Capacity,500,ton/day,2025-03-17,Jalan rusak
+C01013-3,MINE_3,EQ009-3,2025-03-15,Excavator Capacity,500,ton/day,2025-03-17,Cuaca kurang mendukung
+C01014-1,MINE_1,EQ015-1,2025-03-15,Hauling Capacity,500,ton/day,2025-03-17,Akses terhambat
+C01015-5,MINE_5,EQ012-5,2025-03-22,Excavator Capacity,500,ton/day,2025-03-27,Material basah
+C01016-3,MINE_3,EQ039-3,2025-03-22,Hauling Capacity,500,ton/day,2025-03-28,Akses terhambat
+C01017-4,MINE_4,EQ013-4,2025-03-22,Hauling Capacity,500,ton/day,2025-03-28,Jalan rusak
+C01018-1,MINE_1,EQ050-1,2025-03-22,Excavator Capacity,577,ton/day,2025-03-25,Material basah
+C01019-2,MINE_2,EQ028-2,2025-03-22,Excavator Capacity,500,ton/day,2025-03-24,Cuaca kurang mendukung
+C01020-2,MINE_2,EQ018-2,2025-04-01,Excavator Capacity,500,ton/day,2025-04-06,Material basah
+C01021-4,MINE_4,EQ010-4,2025-04-01,Excavator Capacity,500,ton/day,2025-04-05,Material basah
+C01022-1,MINE_1,EQ014-1,2025-04-01,Hauling Capacity,500,ton/day,2025-04-02,Jalan rusak
+C01023-3,MINE_3,EQ009-3,2025-04-01,Hauling Capacity,500,ton/day,2025-04-06,Kerusakan mekanis
+C01024-5,MINE_5,EQ044-5,2025-04-01,Excavator Capacity,500,ton/day,2025-04-06,Material basah
+C01025-4,MINE_4,EQ003-4,2025-04-08,Crusher Capacity,500,ton/day,2025-04-10,Perbaikan alat
+C01026-1,MINE_1,EQ016-1,2025-04-08,Hauling Capacity,500,ton/day,2025-04-10,Kemacetan hauling
+C01027-3,MINE_3,EQ009-3,2025-04-08,Excavator Capacity,500,ton/day,2025-04-08,Cuaca kurang mendukung
+C01028-5,MINE_5,EQ034-5,2025-04-08,Excavator Capacity,500,ton/day,2025-04-14,Kondisi lapangan kurang optimal
+C01029-2,MINE_2,EQ048-2,2025-04-08,Crusher Capacity,500,ton/day,2025-04-13,Produksi tertunda
+C01030-1,MINE_1,EQ041-1,2025-04-15,Hauling Capacity,500,ton/day,2025-04-18,Kemacetan hauling
+C01031-3,MINE_3,EQ039-3,2025-04-15,Hauling Capacity,500,ton/day,2025-04-20,Kerusakan mekanis
+C01032-2,MINE_2,EQ048-2,2025-04-15,Hauling Capacity,500,ton/day,2025-04-16,Jalan rusak
+C01033-4,MINE_4,EQ003-4,2025-04-15,Excavator Capacity,500,ton/day,2025-04-18,Material basah
+C01034-5,MINE_5,EQ002-5,2025-04-15,Excavator Capacity,500,ton/day,2025-04-20,Curah hujan tinggi
+C01035-2,MINE_2,EQ024-2,2025-04-22,Hauling Capacity,500,ton/day,2025-04-24,Kemacetan hauling
+C01036-3,MINE_3,EQ021-3,2025-04-22,Hauling Capacity,500,ton/day,2025-04-25,Jalan rusak
+C01037-5,MINE_5,EQ034-5,2025-04-22,Excavator Capacity,500,ton/day,2025-04-25,Maintenance unit
+C01038-4,MINE_4,EQ010-4,2025-04-22,Hauling Capacity,500,ton/day,2025-04-23,Kemacetan hauling
+C01039-1,MINE_1,EQ038-1,2025-04-22,Hauling Capacity,500,ton/day,2025-04-28,Kemacetan hauling
+C01040-5,MINE_5,EQ002-5,2025-05-01,Hauling Capacity,500,ton/day,2025-05-04,Kemacetan hauling
+C01041-2,MINE_2,EQ040-2,2025-05-01,Excavator Capacity,500,ton/day,2025-05-02,Material basah
+C01042-4,MINE_4,EQ013-4,2025-05-01,Excavator Capacity,500,ton/day,2025-05-04,Cuaca kurang mendukung
+C01043-3,MINE_3,EQ031-3,2025-05-01,Hauling Capacity,500,ton/day,2025-05-01,Akses terhambat
+C01044-1,MINE_1,EQ043-1,2025-05-01,Excavator Capacity,500,ton/day,2025-05-07,Curah hujan tinggi
+C01045-2,MINE_2,EQ029-2,2025-05-08,Hauling Capacity,500,ton/day,2025-05-13,Akses terhambat
+C01046-4,MINE_4,EQ013-4,2025-05-08,Excavator Capacity,500,ton/day,2025-05-11,Cuaca kurang mendukung
+C01047-1,MINE_1,EQ041-1,2025-05-08,Crusher Capacity,500,ton/day,2025-05-14,Kerusakan mekanis
+C01048-3,MINE_3,EQ046-3,2025-05-08,Hauling Capacity,500,ton/day,2025-05-11,Akses terhambat
+C01049-5,MINE_5,EQ012-5,2025-05-08,Hauling Capacity,500,ton/day,2025-05-08,Akses terhambat
+C01050-1,MINE_1,EQ017-1,2025-05-15,Excavator Capacity,500,ton/day,2025-05-18,Cuaca kurang mendukung
+C01051-3,MINE_3,EQ021-3,2025-05-15,Hauling Capacity,500,ton/day,2025-05-21,Jalan rusak
+C01052-4,MINE_4,EQ026-4,2025-05-15,Excavator Capacity,500,ton/day,2025-05-19,Material basah
+C01053-5,MINE_5,EQ034-5,2025-05-15,Excavator Capacity,500,ton/day,2025-05-19,Kerusakan mekanis
+C01054-2,MINE_2,EQ025-2,2025-05-15,Excavator Capacity,500,ton/day,2025-05-20,Cuaca kurang mendukung
+C01055-1,MINE_1,EQ050-1,2025-05-22,Hauling Capacity,500,ton/day,2025-05-26,Akses terhambat
+C01056-3,MINE_3,EQ009-3,2025-05-22,Excavator Capacity,500,ton/day,2025-05-25,Material basah
+C01057-2,MINE_2,EQ048-2,2025-05-22,Hauling Capacity,500,ton/day,2025-05-26,Kemacetan hauling
+C01058-4,MINE_4,EQ013-4,2025-05-22,Excavator Capacity,500,ton/day,2025-05-27,Curah hujan tinggi
+C01059-5,MINE_5,EQ034-5,2025-05-22,Hauling Capacity,500,ton/day,2025-05-24,Produksi tertunda
+C01060-1,MINE_1,EQ030-1,2025-06-01,Crusher Capacity,500,ton/day,2025-06-07,Kerusakan mekanis
+C01061-4,MINE_4,EQ013-4,2025-06-01,Excavator Capacity,500,ton/day,2025-06-07,Curah hujan tinggi
+C01062-3,MINE_3,EQ039-3,2025-06-01,Hauling Capacity,500,ton/day,2025-06-04,Jalan rusak
+C01063-5,MINE_5,EQ035-5,2025-06-01,Hauling Capacity,500,ton/day,2025-06-07,Operasi normal
+C01064-2,MINE_2,EQ001-2,2025-06-01,Excavator Capacity,500,ton/day,2025-06-01,Curah hujan tinggi
+C01065-3,MINE_3,EQ046-3,2025-06-08,Hauling Capacity,500,ton/day,2025-06-12,Kemacetan hauling
+C01066-5,MINE_5,EQ034-5,2025-06-08,Hauling Capacity,500,ton/day,2025-06-10,Jalan rusak
+C01067-2,MINE_2,EQ040-2,2025-06-08,Hauling Capacity,500,ton/day,2025-06-09,Kemacetan hauling
+C01068-4,MINE_4,EQ003-4,2025-06-08,Excavator Capacity,500,ton/day,2025-06-11,Maintenance unit
+C01069-1,MINE_1,EQ007-1,2025-06-08,Crusher Capacity,500,ton/day,2025-06-14,Perbaikan alat
+C01070-1,MINE_1,EQ007-1,2025-06-15,Excavator Capacity,536,ton/day,2025-06-19,Material basah
+C01071-4,MINE_4,EQ026-4,2025-06-15,Excavator Capacity,500,ton/day,2025-06-19,Cuaca kurang mendukung
+C01072-2,MINE_2,EQ024-2,2025-06-15,Crusher Capacity,500,ton/day,2025-06-18,Kerusakan mekanis
+C01073-3,MINE_3,EQ031-3,2025-06-15,Excavator Capacity,500,ton/day,2025-06-19,Cuaca kurang mendukung
+C01074-5,MINE_5,EQ034-5,2025-06-15,Hauling Capacity,500,ton/day,2025-06-15,Akses terhambat
+C01075-5,MINE_5,EQ044-5,2025-06-22,Excavator Capacity,500,ton/day,2025-06-25,Curah hujan tinggi
+C01076-2,MINE_2,EQ019-2,2025-06-22,Hauling Capacity,500,ton/day,2025-06-28,Akses terhambat
+C01077-1,MINE_1,EQ011-1,2025-06-22,Excavator Capacity,500,ton/day,2025-06-22,Curah hujan tinggi
+C01078-3,MINE_3,EQ039-3,2025-06-22,Hauling Capacity,500,ton/day,2025-06-24,Akses terhambat
+C01079-4,MINE_4,EQ026-4,2025-06-22,Hauling Capacity,500,ton/day,2025-06-24,Kerusakan mekanis
+C01080-5,MINE_5,EQ012-5,2025-07-01,Excavator Capacity,500,ton/day,2025-07-05,Material basah
+C01081-3,MINE_3,EQ046-3,2025-07-01,Crusher Capacity,500,ton/day,2025-07-02,Perbaikan alat
+C01082-2,MINE_2,EQ001-2,2025-07-01,Hauling Capacity,500,ton/day,2025-07-06,Kemacetan hauling
+C01083-4,MINE_4,EQ026-4,2025-07-01,Hauling Capacity,500,ton/day,2025-07-03,Kemacetan hauling
+C01084-1,MINE_1,EQ043-1,2025-07-01,Hauling Capacity,500,ton/day,2025-07-07,Jalan rusak
+C01085-1,MINE_1,EQ043-1,2025-07-08,Hauling Capacity,500,ton/day,2025-07-08,Kemacetan hauling
+C01086-3,MINE_3,EQ039-3,2025-07-08,Excavator Capacity,500,ton/day,2025-07-13,Material basah
+C01087-4,MINE_4,EQ036-4,2025-07-08,Crusher Capacity,500,ton/day,2025-07-09,Perbaikan alat
+C01088-5,MINE_5,EQ034-5,2025-07-08,Hauling Capacity,500,ton/day,2025-07-08,Perbaikan alat
+C01089-2,MINE_2,EQ024-2,2025-07-08,Excavator Capacity,500,ton/day,2025-07-10,Material basah
+C01090-2,MINE_2,EQ049-2,2025-07-15,Hauling Capacity,500,ton/day,2025-07-18,Kemacetan hauling
+C01091-3,MINE_3,EQ046-3,2025-07-15,Hauling Capacity,500,ton/day,2025-07-21,Akses terhambat
+C01092-5,MINE_5,EQ034-5,2025-07-15,Hauling Capacity,500,ton/day,2025-07-15,Kondisi lapangan kurang optimal
+C01093-4,MINE_4,EQ003-4,2025-07-15,Hauling Capacity,560,ton/day,2025-07-21,Kemacetan hauling
+C01094-1,MINE_1,EQ038-1,2025-07-15,Excavator Capacity,500,ton/day,2025-07-16,Kondisi lapangan kurang optimal
+C01095-4,MINE_4,EQ003-4,2025-07-22,Hauling Capacity,500,ton/day,2025-07-23,Akses terhambat
+C01096-3,MINE_3,EQ031-3,2025-07-22,Excavator Capacity,500,ton/day,2025-07-24,Cuaca kurang mendukung
+C01097-5,MINE_5,EQ044-5,2025-07-22,Hauling Capacity,500,ton/day,2025-07-22,Kemacetan hauling
+C01098-1,MINE_1,EQ022-1,2025-07-22,Excavator Capacity,500,ton/day,2025-07-28,Alur produksi lancar
+C01099-2,MINE_2,EQ049-2,2025-07-22,Excavator Capacity,500,ton/day,2025-07-25,Cuaca kurang mendukung
+C01100-3,MINE_3,EQ021-3,2025-08-01,Hauling Capacity,500,ton/day,2025-08-06,Akses terhambat
+C01101-5,MINE_5,EQ008-5,2025-08-01,Hauling Capacity,500,ton/day,2025-08-05,Jalan rusak
+C01102-1,MINE_1,EQ015-1,2025-08-01,Excavator Capacity,500,ton/day,2025-08-05,Material basah
+C01103-4,MINE_4,EQ003-4,2025-08-01,Excavator Capacity,500,ton/day,2025-08-05,Material basah
+C01104-2,MINE_2,EQ048-2,2025-08-01,Excavator Capacity,500,ton/day,2025-08-06,Cuaca kurang mendukung
+C01105-4,MINE_4,EQ013-4,2025-08-08,Excavator Capacity,500,ton/day,2025-08-12,Material basah
+C01106-3,MINE_3,EQ009-3,2025-08-08,Hauling Capacity,500,ton/day,2025-08-14,Kemacetan hauling
+C01107-5,MINE_5,EQ044-5,2025-08-08,Excavator Capacity,500,ton/day,2025-08-13,Cuaca kurang mendukung
+C01108-1,MINE_1,EQ027-1,2025-08-08,Excavator Capacity,500,ton/day,2025-08-09,Material basah
+C01109-2,MINE_2,EQ048-2,2025-08-08,Hauling Capacity,500,ton/day,2025-08-10,Kemacetan hauling
+C01110-3,MINE_3,EQ031-3,2025-08-15,Excavator Capacity,500,ton/day,2025-08-21,Maintenance unit
+C01111-2,MINE_2,EQ019-2,2025-08-15,Hauling Capacity,500,ton/day,2025-08-19,Jalan rusak
+C01112-1,MINE_1,EQ043-1,2025-08-15,Hauling Capacity,500,ton/day,2025-08-15,Jalan rusak
+C01113-4,MINE_4,EQ036-4,2025-08-15,Excavator Capacity,500,ton/day,2025-08-18,Cuaca kurang mendukung
+C01114-5,MINE_5,EQ035-5,2025-08-15,Hauling Capacity,500,ton/day,2025-08-17,Akses terhambat
+C01115-2,MINE_2,EQ048-2,2025-08-22,Excavator Capacity,500,ton/day,2025-08-27,Curah hujan tinggi
+C01116-1,MINE_1,EQ023-1,2025-08-22,Excavator Capacity,500,ton/day,2025-08-28,Cuaca kurang mendukung
+C01117-3,MINE_3,EQ031-3,2025-08-22,Crusher Capacity,500,ton/day,2025-08-25,Kerusakan mekanis
+C01118-4,MINE_4,EQ003-4,2025-08-22,Hauling Capacity,500,ton/day,2025-08-26,Jalan rusak
+C01119-5,MINE_5,EQ012-5,2025-08-22,Excavator Capacity,500,ton/day,2025-08-23,Cuaca kurang mendukung
+C01120-2,MINE_2,EQ024-2,2025-09-01,Hauling Capacity,500,ton/day,2025-09-06,Akses terhambat
+C01121-1,MINE_1,EQ045-1,2025-09-01,Excavator Capacity,500,ton/day,2025-09-07,Material basah
+C01122-5,MINE_5,EQ035-5,2025-09-01,Hauling Capacity,500,ton/day,2025-09-01,Akses terhambat
+C01123-4,MINE_4,EQ026-4,2025-09-01,Hauling Capacity,500,ton/day,2025-09-06,Kerusakan mekanis
+C01124-3,MINE_3,EQ021-3,2025-09-01,Hauling Capacity,500,ton/day,2025-09-06,Kemacetan hauling
+C01125-4,MINE_4,EQ036-4,2025-09-08,Excavator Capacity,500,ton/day,2025-09-10,Maintenance unit
+C01126-3,MINE_3,EQ009-3,2025-09-08,Hauling Capacity,500,ton/day,2025-09-08,Jalan rusak
+C01127-1,MINE_1,EQ050-1,2025-09-08,Excavator Capacity,500,ton/day,2025-09-12,Cuaca kurang mendukung
+C01128-2,MINE_2,EQ042-2,2025-09-08,Hauling Capacity,500,ton/day,2025-09-09,Kemacetan hauling
+C01129-5,MINE_5,EQ035-5,2025-09-08,Excavator Capacity,500,ton/day,2025-09-12,Produksi tertunda
+C01130-3,MINE_3,EQ039-3,2025-09-15,Hauling Capacity,500,ton/day,2025-09-17,Kemacetan hauling
+C01131-2,MINE_2,EQ019-2,2025-09-15,Crusher Capacity,500,ton/day,2025-09-17,Maintenance unit
+C01132-5,MINE_5,EQ008-5,2025-09-15,Hauling Capacity,500,ton/day,2025-09-18,Jalan rusak
+C01133-4,MINE_4,EQ026-4,2025-09-15,Excavator Capacity,500,ton/day,2025-09-17,Kerusakan mekanis
+C01134-1,MINE_1,EQ030-1,2025-09-15,Crusher Capacity,500,ton/day,2025-09-20,Gangguan operasional
+C01135-5,MINE_5,EQ034-5,2025-09-22,Excavator Capacity,500,ton/day,2025-09-28,Cuaca kurang mendukung
+C01136-3,MINE_3,EQ031-3,2025-09-22,Hauling Capacity,500,ton/day,2025-09-25,Jalan rusak
+C01137-1,MINE_1,EQ015-1,2025-09-22,Excavator Capacity,500,ton/day,2025-09-23,Curah hujan tinggi
+C01138-4,MINE_4,EQ036-4,2025-09-22,Excavator Capacity,500,ton/day,2025-09-24,Cuaca kurang mendukung
+C01139-2,MINE_2,EQ024-2,2025-09-22,Hauling Capacity,500,ton/day,2025-09-28,Jalan rusak
+C01140-2,MINE_2,EQ025-2,2025-10-01,Crusher Capacity,500,ton/day,2025-10-01,Maintenance unit
+C01141-1,MINE_1,EQ027-1,2025-10-01,Hauling Capacity,500,ton/day,2025-10-02,Jalan rusak
+C01142-3,MINE_3,EQ039-3,2025-10-01,Hauling Capacity,500,ton/day,2025-10-04,Kemacetan hauling
+C01143-4,MINE_4,EQ013-4,2025-10-01,Excavator Capacity,500,ton/day,2025-10-05,Cuaca kurang mendukung
+C01144-5,MINE_5,EQ012-5,2025-10-01,Hauling Capacity,500,ton/day,2025-10-06,Akses terhambat
+C01145-1,MINE_1,EQ016-1,2025-10-08,Hauling Capacity,500,ton/day,2025-10-09,Jalan rusak
+C01146-5,MINE_5,EQ012-5,2025-10-08,Hauling Capacity,500,ton/day,2025-10-09,Maintenance unit
+C01147-2,MINE_2,EQ004-2,2025-10-08,Excavator Capacity,500,ton/day,2025-10-14,Cuaca kurang mendukung
+C01148-4,MINE_4,EQ026-4,2025-10-08,Hauling Capacity,500,ton/day,2025-10-11,Akses terhambat
+C01149-3,MINE_3,EQ046-3,2025-10-08,Hauling Capacity,500,ton/day,2025-10-12,Kemacetan hauling
+C01150-3,MINE_3,EQ046-3,2025-10-15,Hauling Capacity,500,ton/day,2025-10-18,Maintenance unit
+C01151-5,MINE_5,EQ044-5,2025-10-15,Hauling Capacity,500,ton/day,2025-10-17,Akses terhambat
+C01152-4,MINE_4,EQ010-4,2025-10-15,Excavator Capacity,500,ton/day,2025-10-20,Kerusakan mekanis
+C01153-2,MINE_2,EQ040-2,2025-10-15,Excavator Capacity,500,ton/day,2025-10-15,Curah hujan tinggi
+C01154-1,MINE_1,EQ022-1,2025-10-15,Hauling Capacity,500,ton/day,2025-10-19,Kemacetan hauling
+C01155-5,MINE_5,EQ002-5,2025-10-22,Hauling Capacity,500,ton/day,2025-10-22,Jalan rusak
+C01156-4,MINE_4,EQ036-4,2025-10-22,Hauling Capacity,500,ton/day,2025-10-22,Kemacetan hauling
+C01157-3,MINE_3,EQ039-3,2025-10-22,Hauling Capacity,500,ton/day,2025-10-27,Perbaikan alat
+C01158-1,MINE_1,EQ043-1,2025-10-22,Hauling Capacity,500,ton/day,2025-10-24,Jalan rusak
+C01159-2,MINE_2,EQ001-2,2025-10-22,Excavator Capacity,500,ton/day,2025-10-24,Cuaca kurang mendukung
+C01160-4,MINE_4,EQ036-4,2025-11-01,Hauling Capacity,500,ton/day,2025-11-07,Akses terhambat
+C01161-3,MINE_3,EQ031-3,2025-11-01,Hauling Capacity,500,ton/day,2025-11-04,Jalan rusak
+C01162-5,MINE_5,EQ035-5,2025-11-01,Hauling Capacity,500,ton/day,2025-11-03,Kemacetan hauling
+C01163-2,MINE_2,EQ025-2,2025-11-01,Excavator Capacity,500,ton/day,2025-11-05,Cuaca kurang mendukung
+C01164-1,MINE_1,EQ023-1,2025-11-01,Excavator Capacity,500,ton/day,2025-11-04,Curah hujan tinggi
+C01165-4,MINE_4,EQ003-4,2025-11-08,Hauling Capacity,500,ton/day,2025-11-11,Jalan rusak
+C01166-5,MINE_5,EQ044-5,2025-11-08,Hauling Capacity,500,ton/day,2025-11-09,Jalan rusak
+C01167-2,MINE_2,EQ040-2,2025-11-08,Hauling Capacity,500,ton/day,2025-11-14,Kemacetan hauling
+C01168-1,MINE_1,EQ006-1,2025-11-08,Crusher Capacity,500,ton/day,2025-11-14,Perbaikan alat
+C01169-3,MINE_3,EQ046-3,2025-11-08,Hauling Capacity,500,ton/day,2025-11-10,Jalan rusak
+C01170-4,MINE_4,EQ010-4,2025-11-15,Excavator Capacity,500,ton/day,2025-11-19,Maintenance unit
+C01171-5,MINE_5,EQ044-5,2025-11-15,Hauling Capacity,500,ton/day,2025-11-19,Jalan rusak
+C01172-3,MINE_3,EQ009-3,2025-11-15,Excavator Capacity,500,ton/day,2025-11-20,Cuaca kurang mendukung
+C01173-1,MINE_1,EQ014-1,2025-11-15,Excavator Capacity,500,ton/day,2025-11-19,Maintenance unit
+C01174-2,MINE_2,EQ004-2,2025-11-15,Excavator Capacity,500,ton/day,2025-11-20,Cuaca kurang mendukung
+C01175-4,MINE_4,EQ010-4,2025-11-22,Excavator Capacity,500,ton/day,2025-11-26,Curah hujan tinggi
+C01176-1,MINE_1,EQ047-1,2025-11-22,Excavator Capacity,500,ton/day,2025-11-28,Perbaikan alat
+C01177-2,MINE_2,EQ019-2,2025-11-22,Hauling Capacity,500,ton/day,2025-11-26,Jalan rusak
+C01178-3,MINE_3,EQ046-3,2025-11-22,Hauling Capacity,500,ton/day,2025-11-23,Kerusakan mekanis
+C01179-5,MINE_5,EQ044-5,2025-11-22,Hauling Capacity,500,ton/day,2025-11-25,Akses terhambat
+C01180-3,MINE_3,EQ009-3,2025-12-01,Crusher Capacity,500,ton/day,2025-12-03,Kerusakan mekanis
+C01181-1,MINE_1,EQ033-1,2025-12-01,Excavator Capacity,500,ton/day,2025-12-07,Cuaca kurang mendukung
+C01182-2,MINE_2,EQ024-2,2025-12-01,Excavator Capacity,500,ton/day,2025-12-02,Perbaikan alat
+C01183-4,MINE_4,EQ003-4,2025-12-01,Hauling Capacity,500,ton/day,2025-12-05,Kemacetan hauling
+C01184-5,MINE_5,EQ034-5,2025-12-01,Hauling Capacity,500,ton/day,2025-12-05,Jalan rusak
+C01185-5,MINE_5,EQ034-5,2025-12-08,Hauling Capacity,500,ton/day,2025-12-09,Kondisi lapangan kurang optimal
+C01186-1,MINE_1,EQ027-1,2025-12-08,Crusher Capacity,500,ton/day,2025-12-14,Maintenance unit
+C01187-2,MINE_2,EQ049-2,2025-12-08,Hauling Capacity,500,ton/day,2025-12-10,Jalan rusak
+C01188-4,MINE_4,EQ013-4,2025-12-08,Excavator Capacity,500,ton/day,2025-12-13,Curah hujan tinggi
+C01189-3,MINE_3,EQ031-3,2025-12-08,Hauling Capacity,500,ton/day,2025-12-10,Akses terhambat
+C01190-4,MINE_4,EQ003-4,2025-12-15,Excavator Capacity,500,ton/day,2025-12-21,Material basah
+C01191-5,MINE_5,EQ008-5,2025-12-15,Crusher Capacity,500,ton/day,2025-12-18,Kerusakan mekanis
+C01192-2,MINE_2,EQ019-2,2025-12-15,Hauling Capacity,500,ton/day,2025-12-16,Akses terhambat
+C01193-3,MINE_3,EQ021-3,2025-12-15,Hauling Capacity,500,ton/day,2025-12-16,Kerusakan mekanis
+C01194-1,MINE_1,EQ005-1,2025-12-15,Hauling Capacity,500,ton/day,2025-12-19,Kemacetan hauling
+C01195-1,MINE_1,EQ027-1,2025-12-22,Hauling Capacity,500,ton/day,2025-12-22,Kemacetan hauling
+C01196-4,MINE_4,EQ026-4,2025-12-22,Excavator Capacity,500,ton/day,2025-12-27,Perbaikan alat
+C01197-2,MINE_2,EQ049-2,2025-12-22,Hauling Capacity,500,ton/day,2025-12-23,Akses terhambat
+C01198-3,MINE_3,EQ039-3,2025-12-22,Excavator Capacity,500,ton/day,2025-12-22,Curah hujan tinggi
+C01199-5,MINE_5,EQ008-5,2025-12-22,Excavator Capacity,500,ton/day,2025-12-26,Material basah
