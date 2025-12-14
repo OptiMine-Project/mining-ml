@@ -1,0 +1,58 @@
+{
+    "rainfall_mm": [
+        "temperature_c",
+        "wind_speed_kmh",
+        "humidity_pct",
+        "mine_id_enc",
+        "month",
+        "week",
+        "dayofyear",
+        "rainfall_mm_lag1",
+        "rainfall_mm_lag3",
+        "rainfall_mm_lag7",
+        "rainfall_mm_roll3",
+        "rainfall_mm_roll7"
+    ],
+    "temperature_c": [
+        "rainfall_mm",
+        "wind_speed_kmh",
+        "humidity_pct",
+        "mine_id_enc",
+        "month",
+        "week",
+        "dayofyear",
+        "temperature_c_lag1",
+        "temperature_c_lag3",
+        "temperature_c_lag7",
+        "temperature_c_roll3",
+        "temperature_c_roll7"
+    ],
+    "humidity_pct": [
+        "rainfall_mm",
+        "temperature_c",
+        "wind_speed_kmh",
+        "mine_id_enc",
+        "month",
+        "week",
+        "dayofyear",
+        "humidity_pct_lag1",
+        "humidity_pct_lag3",
+        "humidity_pct_lag7",
+        "humidity_pct_roll3",
+        "humidity_pct_roll7"
+    ],
+    "wind_speed_kmh": [
+        "rainfall_mm",
+        "temperature_c",
+        "humidity_pct",
+        "mine_id_enc",
+        "month",
+        "week",
+        "dayofyear",
+        "wind_speed_kmh_lag1",
+        "wind_speed_kmh_lag3",
+        "wind_speed_kmh_lag7",
+        "wind_speed_kmh_roll3",
+        "wind_speed_kmh_roll7"
+    ]
+}
