@@ -297,11 +297,7 @@ Actual vs Predicted Effective Capacity
 - R² Score: **0.89**
 - RMSE: **~11,667 tons**
 - Demonstrates reliable estimation of realized production under operational constraints
-
-**Visualization (Example):**
-> Actual vs Predicted Production Output  
-> *(Insert prediction comparison plot here)*
-
+  
 ---
 
 ## Pipeline Dependency Flow
