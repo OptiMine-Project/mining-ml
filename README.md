@@ -40,6 +40,7 @@ Unified ML Output (ml_output_clean)
 Agentic AI (Decision & Recommendation Layer)
 ```
 
+
 ---
 
 ## Model Overview
@@ -125,6 +126,173 @@ Although named `actual_output_ton`, this value represents:
 It estimates the *expected actual production* under current constraints,
 not the planned or theoretical capacity.
 
+---
+
+## Model Architecture & Parameters
+
+This section describes the **feature construction, input variables (X), target variables (y), and model configurations** used in each stage of the ML pipeline.
+
+### **Model 1 – Weather Forecasting Architecture**
+
+**Target Variables (y):**
+- `rainfall_mm`
+- `temperature_c`
+- `humidity_pct`
+- `wind_speed_kmh`
+
+**Feature Engineering Strategy:**
+- Time-based features:
+  - `month`
+  - `week`
+  - `dayofyear`
+- Lag features per mine:
+  - Lag-1, Lag-3, Lag-7
+- Rolling statistics per mine:
+  - Rolling mean (3-day, 7-day)
+
+**Model Configuration:**
+- Algorithm: `XGBRegressor`
+- Key parameters:
+  - `n_estimators = 500`
+  - `learning_rate = 0.05`
+  - `max_depth = 6`
+  - `subsample = 0.8`
+  - `colsample_bytree = 0.8`
+  - `objective = reg:squarederror`
+- Training strategy:
+  - Time-based train–test split (80% / 20%)
+  - Early stopping (20 rounds)
+  - Evaluation metric: RMSE
+
+---
+
+### **Model 2 – Weather Classification Architecture**
+
+**Target Variable (y):**
+- `weather_remark` (e.g., Cerah, Mendung, Hujan Ringan, Hujan Lebat)
+
+**Input Features (X):**
+- Numerical weather forecasts from Model 1:
+  - `rainfall_mm`
+  - `temperature_c`
+  - `humidity_pct`
+  - `wind_speed_kmh`
+
+**Model Configuration:**
+- Algorithm: `XGBClassifier`
+- Objective: `multi:softmax`
+- Hyperparameter tuning:
+  - GridSearchCV (5-fold CV)
+- Optimized parameters:
+  - `max_depth = 4`
+  - `learning_rate = 0.05`
+  - `n_estimators = 150`
+  - `subsample = 1`
+  - `colsample_bytree = 0.8`
+- Evaluation metric:
+  - Accuracy, Precision, Recall, F1-score
+
+---
+
+### **Model 3 – Effective Capacity Prediction Architecture**
+
+**Target Variable (y):**
+- `effective_capacity_ton_day`
+
+**Input Features (X):**
+- `mine_id`
+- `equipment_type`
+- `road_condition`
+- `weather_condition`
+- `availability_pct`
+
+**Model Configuration:**
+- Algorithm: `RandomForestRegressor`
+- Hyperparameter optimization:
+  - Bayesian Optimization (`BayesSearchCV`)
+- Key optimized parameters:
+  - `n_estimators = 200`
+  - `max_depth = 11`
+  - `max_features = log2`
+  - `min_samples_leaf = 4`
+  - `min_samples_split = 10`
+- Evaluation metrics:
+  - MSE
+  - R²
+  - MAPE
+
+---
+
+### **Model 4 – Actual Production Prediction Architecture**
+
+**Target Variable (y):**
+- `actual_output_ton`
+
+**Input Features (X):**
+- `road_condition`
+- `weather_condition`
+- `availability_pct`
+- `effective_capacity_ton_day`
+- `planned_output_ton`
+
+**Preprocessing Pipeline:**
+- Categorical encoding:
+  - One-Hot Encoding (`road_condition`, `weather_condition`)
+- Numerical scaling:
+  - StandardScaler
+
+**Model Configuration:**
+- Algorithm: `RandomForestRegressor`
+- `n_estimators = 100`
+- Integrated using `sklearn Pipeline`
+
+---
+
+## Evaluation & Results
+
+This section summarizes the **quantitative performance** of each model on held-out test data.
+
+### **Model 1 – Weather Forecasting Performance (MAE)**
+
+| Variable | MAE |
+|--------|-----|
+| Rainfall (mm) | 0.271 |
+| Temperature (°C) | 0.441 |
+| Humidity (%) | 2.005 |
+| Wind Speed (km/h) | 0.150 |
+
+---
+
+### **Model 2 – Weather Classification Performance**
+
+- Accuracy: **~83.8%**
+- Weighted F1-score: **~0.79**
+- Strong performance on dominant operational classes (Mendung, Hujan Ringan, Hujan Lebat)
+- Misclassification mainly occurs in minority classes (e.g., Cerah)
+
+---
+
+### **Model 3 – Effective Capacity Prediction Performance**
+
+- R² Score: **0.91**
+- MAPE: **~1.27%**
+- Indicates strong explanatory power and low relative error for operational capacity estimation
+
+**Visualization (Example):**
+> Actual vs Predicted Effective Capacity  
+> *(Insert scatter plot image here)*
+
+---
+
+### **Model 4 – Actual Production Prediction Performance**
+
+- R² Score: **0.89**
+- RMSE: **~11,667 tons**
+- Demonstrates reliable estimation of realized production under operational constraints
+
+**Visualization (Example):**
+> Actual vs Predicted Production Output  
+> *(Insert prediction comparison plot here)*
 
 ---
 
