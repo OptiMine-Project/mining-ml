@@ -1,6 +1,6 @@
-# 🧠 Machine Learning Pipeline – Mining Production & Shipping Optimization
+# Machine Learning Pipeline – Mining Production & Shipping Optimization
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains the **Machine Learning (ML) pipeline** used to support an **Agentic AI system for mining production and shipping optimization**.
 
@@ -10,12 +10,23 @@ The ML component is responsible for:
 * Providing **structured, explainable inputs** to the Agentic AI layer
 * Ensuring **reproducibility, consistency, and traceability** of model inference
 
-⚠️ **Important Note:**
+**Important Note:**
 This repository **does not handle conversational logic, memory, or user interaction**. Those responsibilities belong to the backend and Agentic AI layers.
 
 ---
+## Value Proposition
 
-## 🏗️ ML System Architecture (High Level)
+This ML pipeline enables **data-driven mining value optimization** by transforming
+uncertain environmental and operational signals into **actionable, structured predictions**.
+
+Instead of reacting to delays and production shortfalls, the system supports:
+- Proactive planning
+- Risk-aware decision making
+- Operational efficiency under uncertainty
+
+---
+
+## ML System Architecture (High Level)
 
 ```
 Raw Data
@@ -31,7 +42,7 @@ Agentic AI (Decision & Recommendation Layer)
 
 ---
 
-## 📊 Model Overview
+## Model Overview
 
 The ML system consists of **four sequential models**, each serving a specific operational purpose.
 
@@ -104,10 +115,20 @@ Predict **actual mine production output** given effective capacity and environme
 **Outputs:**
 
 * Expected actual production
+  
+### Output Terminology
+
+Although named `actual_output_ton`, this value represents:
+
+> **Predicted Realized Production Output**
+
+It estimates the *expected actual production* under current constraints,
+not the planned or theoretical capacity.
+
 
 ---
 
-## 🔁 Pipeline Dependency Flow
+## Pipeline Dependency Flow
 
 ```
 Model 1 (Weather Forecast)
@@ -123,7 +144,7 @@ Each model output is **required** for the next stage.
 
 ---
 
-## 🧩 Preprocessing & Feature Engineering
+## Preprocessing & Feature Engineering
 
 All preprocessing steps are treated as **first-class artifacts** and must be preserved alongside trained models.
 
@@ -136,12 +157,12 @@ This includes:
 * Handling of missing values
 * Time alignment logic
 
-⚠️ **Important:**
+**Important:**
 **Models cannot be used independently without their corresponding preprocessing pipelines.**
 
 ---
 
-## 💾 Model Artifacts
+## Model Artifacts
 
 Each trained model is stored together with:
 
@@ -164,7 +185,7 @@ models/
 
 ---
 
-## 📦 Unified ML Output
+## Unified ML Output
 
 All model outputs are merged into a single structured JSON object:
 
@@ -191,7 +212,7 @@ ml_output_clean
 
 ---
 
-## 🤖 Integration with Agentic AI
+## Integration with Agentic AI
 
 The ML pipeline **does not generate recommendations directly**.
 
@@ -209,7 +230,7 @@ This separation ensures:
 
 ---
 
-## 🧠 ML Responsibility Scope
+## ML Responsibility Scope
 
 ✅ Model development & evaluation
 ✅ Feature engineering & preprocessing
@@ -223,7 +244,7 @@ This separation ensures:
 
 ---
 
-## 🔄 Reproducibility & Deployment
+## Reproducibility & Deployment
 
 * All models are exportable and reloadable in inference environments (e.g., Google Colab)
 * No retraining occurs during production inference
@@ -231,7 +252,7 @@ This separation ensures:
 
 ---
 
-## 🧪 Assumptions & Limitations
+## Assumptions & Limitations
 
 * Predictions are dependent on input data quality
 * Weather uncertainty propagates through downstream models
@@ -239,7 +260,7 @@ This separation ensures:
 
 ---
 
-## 📄 Notes for Backend & AI Teams
+## Notes for Backend & AI Teams
 
 * Backend must handle:
 
