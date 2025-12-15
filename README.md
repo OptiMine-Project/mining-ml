@@ -353,6 +353,7 @@ models/
 ├── weather_classification/
 ├── effective_capacity/
 └── actual_production/
+---
 ```
 ## Machine Learning Model Results 
 This section contains the trained Machine Learning models produced during the development of the OptiMine system. All models are stored externally due to file size constraints and can be accessed via [this link](https://drive.google.com/drive/folders/1jORarmjgp1qw0hdR5LbAdoYjNoBh0y9F?usp=sharing)
