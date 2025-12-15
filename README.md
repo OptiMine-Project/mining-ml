@@ -278,9 +278,11 @@ This section summarizes the **quantitative performance** of each model on held-o
 - MAPE: **~1.27%**
 - Indicates strong explanatory power and low relative error for operational capacity estimation
 
-**Visualization (Example):**
+**Visualization:**
 > Actual vs Predicted Effective Capacity  
-> *(Insert scatter plot image here)*
+<p align="center">
+  <img src="Actual vs Predicted Values (Tuned Random Forest Regressor)" width="600"/>
+</p>
 
 ---
 
