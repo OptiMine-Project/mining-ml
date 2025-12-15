@@ -354,12 +354,7 @@ models/
 ├── effective_capacity/
 └── actual_production/
 ```
-## Hasil Model Machine Learning
-
-Bagian ini berisi hasil pengembangan model Machine Learning yang digunakan dalam sistem OptiMine,
-termasuk model terlatih, pipeline inferensi, dan artefak pendukung lainnya.
-
-**Machine Learning Model Results**  
+## Machine Learning Model Results 
 This section contains the trained Machine Learning models produced during the development of the OptiMine system. All models are stored externally due to file size constraints and can be accessed via [this link](https://drive.google.com/drive/folders/1jORarmjgp1qw0hdR5LbAdoYjNoBh0y9F?usp=sharing)
 
 ---
