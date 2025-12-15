@@ -404,15 +404,13 @@ This separation ensures:
 
 ## ML Responsibility Scope
 
-✅ Model development & evaluation
-✅ Feature engineering & preprocessing
-✅ Model inference pipeline
-✅ Structured output generation
+| Included | Excluded |
+|--------|----------|
+| Model development & evaluation | Conversational memory |
+| Feature engineering & preprocessing | User interaction |
+| Model inference pipeline | Chat logic |
+| Structured output generation | Decision orchestration |
 
-❌ Conversational memory
-❌ User interaction
-❌ Chat logic
-❌ Decision orchestration
 
 ---
 
