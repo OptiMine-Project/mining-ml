@@ -52,7 +52,7 @@ The ML system consists of **four sequential models**, each serving a specific op
 **Objective:**
 Predict short-term environmental conditions affecting mining and shipping operations.
 
-**Examples of Outputs:**
+**Outputs:**
 
 * Temperature
 * Wind speed
